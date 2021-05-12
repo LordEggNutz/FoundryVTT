@@ -1,0 +1,329 @@
+{
+  "_id": "IleEjTIhhkFQro1K",
+  "name": "Noble Knight",
+  "type": "feat",
+  "data": {
+    "description": {
+      "value": "<div>\n<div class=\"rd__b  rd__b--1\">\n<p>A knighthood is among the lowest noble titles in most societies, but it can be a path to higher status. If you wish to be a knight, choose the Retainers feature instead of the Position of Privilege feature. One of your commoner retainers is replaced by a noble who serves as your squire, aiding you in exchange for training on his or her own path to knighthood. Your two remaining retainers might include a groom to care for your horse and a servant who polishes your armor (and even helps you put it on).</p>\n<p>As an emblem of chivalry and the ideals of courtly love, you might include among your equipment a banner or other token from a noble lord or lady to whom you have given your heart&ndash;in a chaste sort of devotion. (This person could be your bond.)</p>\n<hr />\n<ul class=\"rd__list rd__list-hang-notitle\">\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Skill Proficiencies:</span> History, Persuasion</p>\n</li>\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Tool Proficiencies:</span> One type of gaming set</p>\n</li>\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Languages:</span> One of your choice</p>\n</li>\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Equipment:</span></p>\n<ul class=\"rd__list rd__list-hang-notitle\">\n<li class=\"rd__li \">\n<p>A set of fine clothes</p>\n</li>\n<li class=\"rd__li \">\n<p>A signet rin</p>\n</li>\n<li class=\"rd__li \">\n<p>A scroll of pedigree</p>\n</li>\n<li class=\"rd__li \">\n<p>A purse containing 25 den</p>\n</li>\n</ul>\n</li>\n</ul>\n<div class=\"rd__b  rd__b--2\"><hr /></div>\n<div class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"159\"><span class=\"entry-title-inner\">Feature: Retainers</span></span>\n<p>You have the service of three retainers loyal to your family. These retainers can be attendants or messengers, and one might be a majordomo. <strong>One of your retainers is a noble who serves as your squire, aiding you in exchange for training on his or her own path to knighthood</strong> (This person could be your bond.). Your two remaining retainers might include a groom to care for your horse and a servant who polishes your armor (and even helps you put it on).</p>\n<p>Your retainers can perform mundane tasks for you, but they do not fight for you, will not follow you into obviously dangerous areas (such as dungeons), and will leave if they are frequently endangered or abused.</p>\n</div>\n<div class=\"rd__b  rd__b--2\"><hr /></div>\n<div class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"160\"><span class=\"entry-title-inner\">Suggested Characteristics</span></span>\n<p>Nobles are born and raised to a very different lifestyle than most people ever experience, and their personalities reflect that upbringing. A noble title comes with a plethora of bonds&mdash;responsibilities to family, to other nobles (including the sovereign), to the people entrusted to the family's care, or even to the title itself. But this responsibility is often a good way to undermine a noble.</p>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d8]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Personality Trait</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">The common folk love me for my kindness and generosity.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">No one could doubt by looking at my regal bearing that I am a cut above the unwashed masses.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I take great pains to always look my best and follow the latest fashions.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">I don't like to get my hands dirty, and I won't be caught dead in unsuitable accommodations.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">Despite my noble birth, I do not place myself above other folk. We all have the same blood.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"7\" data-roll-max=\"7\">7</td>\n<td class=\"col-11\">My favor, once lost, is lost forever.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"8\" data-roll-max=\"8\">8</td>\n<td class=\"col-11\">If you do me an injury, I will crush you, ruin your name, and salt your fields.</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Ideal</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">Respect. Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">Responsibility. It is my duty to respect the authority of those above me, just as those below me must respect mine. (Lawful)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">Indepen dence. I must prove that I can handle myself without coddling from my family. (Chaotic)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">Power. If I can attain more power, no one will tell me what to do. (Evil)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">Family. Blood runs thicker than water. (Any)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">Noble Obligation. It is my duty to protect and care for the people beneath me. (Good)</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Bond</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">I will face any challenge to win the approval of my family.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">My house's alliance with another noble family must be sustained at all costs.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">Nothing is more important than the other members of my family.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I am in love with the heir of a family that my family despises.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">My loyalty to my sovereign is unwavering.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">The common folk must see me as a hero of the people.</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Flaw</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">I secretly believe that everyone is beneath me.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">I hide a truly scandalous secret that could ruin my family forever.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">I too often hear veiled insults and threats in every word addressed to me, and I'm quick to anger.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I have an insatiable desire for carnal pleasures.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">In fact, the world does revolve around me.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">By my words and actions, I often bring shame to my family.</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>",
+      "chat": "",
+      "uni dentified": ""
+    },
+    "source": "PHB pg. 136",
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "sort": 1900000,
+  "flags": {
+    "plutonium": {
+      "source": "PHB",
+      "hash": "variant%20noble%20(knight)_phb",
+      "data": {
+        "background": {
+          "name": "Noble Knight",
+          "source": "PHB",
+          "page": 136,
+          "entries": [
+            {
+              "type": "list",
+              "style": "list-hang-notitle",
+              "items": [
+                {
+                  "type": "item",
+                  "name": "Skill Proficiencies",
+                  "entry": "{@skill History}, {@skill Persuasion}"
+                },
+                {
+                  "type": "item",
+                  "name": "Tool Proficiencies",
+                  "entry": "One type of {@filter gaming set|items|source=phb|miscellaneous=mundane|type=gaming set}"
+                },
+                {
+                  "type": "item",
+                  "name": "Languages",
+                  "entry": "One of your choice"
+                },
+                {
+                  "type": "item",
+                  "name": "Equipment",
+                  "entry": "A set of {@item fine clothes|phb}, a {@item signet ring|phb}, a scroll of pedigree, and a purse containing 25 den"
+                }
+              ]
+            },
+            {
+              "name": "Variant Noble (Knight)",
+              "type": "entries",
+              "entries": [
+                "A knighthood is among the lowest noble titles in most societies, but it can be a path to higher status. If you wish to be a knight, choose the Retainers feature instead of the Position of Privilege feature.",
+                "As an emblem of chivalry and the ideals of courtly love, you might include among your equipment a banner or other token from a noble lord or lady to whom you have given your heart-in a chaste sort of devotion."
+              ]
+            },
+            {
+              "name": "Feature: Retainers",
+              "type": "entries",
+              "entries": [
+                "You have the service of three retainers loyal to your family. These retainers can be attendants or messengers, and one might be a majordomo. {@b One of your retainers is a noble who serves as your squire, aiding you in exchange for training on his or her own path to knighthood} (This person could be your bond.). Your two remaining retainers might include a groom to care for your horse and a servant who polishes your armor (and even helps you put it on).",
+                "Your retainers can perform mundane tasks for you, but they do not fight for you, will not follow you into obviously dangerous areas (such as dungeons), and will leave if they are frequently endangered or abused."
+              ],
+              "data": {
+                "isFeature": true
+              }
+            },
+            {
+              "name": "Suggested Characteristics",
+              "type": "entries",
+              "entries": [
+                "Nobles are born and raised to a very different lifestyle than most people ever experience, and their personalities reflect that upbringing. A noble title comes with a plethora of bonds—responsibilities to family, to other nobles (including the sovereign), to the people entrusted to the family's care, or even to the title itself. But this responsibility is often a good way to undermine a noble.",
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d8",
+                    "Personality Trait"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world."
+                    ],
+                    [
+                      "2",
+                      "The common folk love me for my kindness and generosity."
+                    ],
+                    [
+                      "3",
+                      "No one could doubt by looking at my regal bearing that I am a cut above the unwashed masses."
+                    ],
+                    [
+                      "4",
+                      "I take great pains to always look my best and follow the latest fashions."
+                    ],
+                    [
+                      "5",
+                      "I don't like to get my hands dirty, and I won't be caught dead in unsuitable accommodations."
+                    ],
+                    [
+                      "6",
+                      "Despite my noble birth, I do not place myself above other folk. We all have the same blood."
+                    ],
+                    [
+                      "7",
+                      "My favor, once lost, is lost forever."
+                    ],
+                    [
+                      "8",
+                      "If you do me an injury, I will crush you, ruin your name, and salt your fields."
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Ideal"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "Respect. Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good)"
+                    ],
+                    [
+                      "2",
+                      "Responsibility. It is my duty to respect the authority of those above me, just as those below me must respect mine. (Lawful)"
+                    ],
+                    [
+                      "3",
+                      "Indepen dence. I must prove that I can handle myself without coddling from my family. (Chaotic)"
+                    ],
+                    [
+                      "4",
+                      "Power. If I can attain more power, no one will tell me what to do. (Evil)"
+                    ],
+                    [
+                      "5",
+                      "Family. Blood runs thicker than water. (Any)"
+                    ],
+                    [
+                      "6",
+                      "Noble Obligation. It is my duty to protect and care for the people beneath me. (Good)"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Bond"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "I will face any challenge to win the approval of my family."
+                    ],
+                    [
+                      "2",
+                      "My house's alliance with another noble family must be sustained at all costs."
+                    ],
+                    [
+                      "3",
+                      "Nothing is more important than the other members of my family."
+                    ],
+                    [
+                      "4",
+                      "I am in love with the heir of a family that my family despises."
+                    ],
+                    [
+                      "5",
+                      "My loyalty to my sovereign is unwavering."
+                    ],
+                    [
+                      "6",
+                      "The common folk must see me as a hero of the people."
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Flaw"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "I secretly believe that everyone is beneath me."
+                    ],
+                    [
+                      "2",
+                      "I hide a truly scandalous secret that could ruin my family forever."
+                    ],
+                    [
+                      "3",
+                      "I too often hear veiled insults and threats in every word addressed to me, and I'm quick to anger."
+                    ],
+                    [
+                      "4",
+                      "I have an insatiable desire for carnal pleasures."
+                    ],
+                    [
+                      "5",
+                      "In fact, the world does revolve around me."
+                    ],
+                    [
+                      "6",
+                      "By my words and actions, I often bring shame to my family."
+                    ]
+                  ]
+                }
+              ]
+            }
+          ],
+          "skillProficiencies": [
+            {
+              "history": true,
+              "persuasion": true
+            }
+          ],
+          "languageProficiencies": [
+            {
+              "anyStandard": 1
+            }
+          ],
+          "toolProficiencies": [
+            {
+              "gaming set": true
+            }
+          ],
+          "startingEquipment": [
+            {
+              "_": [
+                "fine clothes|phb",
+                "signet ring|phb",
+                {
+                  "special": "scroll of pedigree"
+                },
+                {
+                  "special": "purse",
+                  "containsValue": 2500
+                }
+              ]
+            }
+          ],
+          "_isCopy": true,
+          "__prop": "background",
+          "_skillDisplay": "History, Persuasion"
+        }
+      }
+    },
+    "exportSource": {
+      "world": "test-world",
+      "system": "dnd5e",
+      "coreVersion": "0.7.9",
+      "systemVersion": "1.2.4"
+    }
+  },
+  "img": "modules/plutonium/media/icon/horse-head.svg",
+  "effects": []
+}

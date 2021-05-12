@@ -1,0 +1,332 @@
+{
+  "_id": "uY0k7cKXVxoqbYuH",
+  "name": "Antiquarian",
+  "type": "feat",
+  "data": {
+    "description": {
+      "value": "<div class=\"rd__b  rd__b--1\">\n<p>You study ancient lore and recover priceless artifacts from past civilizations and bygone ages. You preserve that which was once thought lost, and seek to uncover the forgotten stories of those who came before. Your journeys often take you to abandoned ruins far removed from the comforts of modern civilization, but there is nowhere else you&rsquo;d rather be. You&rsquo;ve seen some of the greatest historical wonders the world has to offer, and you may have even helped discover some of them.</p>\n<hr />\n<ul>\n<li><span class=\"bold list-item-title\">Skill Proficiencies:</span> History, Investigation</li>\n<li><span class=\"bold list-item-title\">Tool Proficiencies:</span> Calligrapher&rsquo;s supplies</li>\n<li><span class=\"bold list-item-title\">Languages:</span> One of your choice</li>\n<li><span class=\"bold list-item-title\">Equipment:</span>\n<ul>\n<li>A bottle of black ink</li>\n<li>a quill</li>\n<li>a tome that appears to contain the history of an unknown settlement or culture</li>\n<li>a set of traveler&rsquo;s clothes</li>\n<li>a belt pouch containing 10 den</li>\n</ul>\n</li>\n</ul>\n<div class=\"rd__b  rd__b--2\"><hr /></div>\n<div class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"83\"><span class=\"entry-title-inner\">Feature: It Belongs in a Museum</span></span>\n<p>You are a member of a respected museum, university, or other organization that preserves relics of ages past. You can gain access to the facilities where such antiquities are stored and can participate in their study. You may be allowed to accompany expeditions seeking to explore ruins or retrieve items of historical interest, if your area of expertise is relevant to the task at hand.</p>\n</div>\n<div class=\"rd__b  rd__b--2\"><hr /></div>\n<div class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"84\"><span class=\"entry-title-inner\">Suggested Characteristics</span></span>\n<p>Because they spend large amounts of time studying the past, antiquarians tend to be quite knowledgeable, although they can sometimes be ignorant to more modern happenings. They are often excited by new discoveries, and are fascinated by exotic cultures and practices. Their social lives often leave much to be desired, as they frequently disappear for days or weeks at a time exploring lost ruins.</p>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d8]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Personality Trait</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">I quote historical texts and famous philosophers whenever they seem relevant to the situations I&rsquo;m in.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">I insist on checking every ruined fortress, abandoned town, and forgotten castle I come across.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">I speak in a dull monotone that is more likely to put others to sleep than to entertain them.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I am more interested in the past than the present; as a result, I am mostly asocial.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">Whenever I meet a new person, I try to learn about their history if at all possible.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">I freely offer my knowledge to those who wish to learn, and I encourage those I know to do so as well.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"7\" data-roll-max=\"7\">7</td>\n<td class=\"col-11\">I enjoy going through ruins for the adventure; getting to experience lost history is just a bonus.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"8\" data-roll-max=\"8\">8</td>\n<td class=\"col-11\">Ignorance frustrates me, and I always try to correct others when they&rsquo;re wrong.</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Ideal</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">Preservation. We must protect the relics of the past, else their creators will fade from memory. (Lawful)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">Betterment. By studying the mistakes of our elders, we might prevent the mistakes of our children. (Good)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">Dominance. The past holds secrets I can use against those who oppose me. (Evil)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">Trophy. The original inventors of these relics are dead; why shouldn&rsquo;t I hold on to them for a while? (Chaotic)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">Expertise. I must become the authority in my field of study. (Any)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">Vigil. Only by remembering the dead do we honor their accomplishments. (Lawful)</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Bond</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">I must prevent the relics of the past from falling into the hands of thieves and looters.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">The historical works of my race must be preserved for the enrichment of future generations.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">I work to uncover the truth of past events, even if doing so is harmful to my nation or organization.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">My family, clan, or guild has a rich history, and I must ensure that others are aware of its importance.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">I will perform the heroic deeds that future historians will surely write about.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">If an artifact has been entrusted to me, I will protect it at all costs, even my life.</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Flaw</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">I have falsely claimed to have discovered a forgotten civilization and faked evidence to support it.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">If I ever find a relic of singular worth, I might keep it for myself&hellip;or for the merchant down the road.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">There is an intense rivalry between myself and a particular colleague, and it often clouds my judgment.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I pretend to know far more than I actually do, and will often ignore any evidence that proves me wrong.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">I care more for the money I&rsquo;m paid by the museums than for the artifacts I deliver to them.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">My obsessive search for a particular object has pushed my loved ones away.</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>",
+      "chat": "",
+      "unidentified": "",
+      "uni dentified": ""
+    },
+    "source": "https://lordeggnutz.com/imrallon/?yada_wiki=antiquarian",
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "sort": 2200000,
+  "flags": {
+    "plutonium": {
+      "source": "PHB",
+      "hash": "acolyte_phb",
+      "data": {
+        "background": {
+          "name": "Acolyte",
+          "source": "PHB",
+          "page": 127,
+          "srd": true,
+          "entries": [
+            {
+              "type": "list",
+              "style": "list-hang-notitle",
+              "items": [
+                {
+                  "type": "item",
+                  "name": "Skill Proficiencies",
+                  "entry": "{@skill Insight}, {@skill Religion}"
+                },
+                {
+                  "type": "item",
+                  "name": "Languages",
+                  "entry": "Two of your choice"
+                },
+                {
+                  "type": "item",
+                  "name": "Equipment",
+                  "entry": "A {@item holy symbol|phb} (a gift to you when you entered the priesthood), a prayer {@item book|phb} or prayer wheel, 5 sticks of incense, vestments, a set of {@item common clothes|phb}, and a belt {@item pouch|phb} containing 15 den"
+                }
+              ]
+            },
+            {
+              "name": "Feature: Shelter of the Faithful",
+              "type": "entries",
+              "entries": [
+                "As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.",
+                "You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a resi dence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple."
+              ],
+              "data": {
+                "isFeature": true
+              }
+            },
+            {
+              "name": "Suggested Characteristics",
+              "type": "entries",
+              "entries": [
+                "Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hid den hypocrisy or heretical idea, or an ideal or bond taken to an extreme.",
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d8",
+                    "Personality Trait"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "I idolize a particular hero of my faith, and constantly refer to that person's deeds and example."
+                    ],
+                    [
+                      "2",
+                      "I can find common ground between the fiercest enemies, empathizing with them and always working toward peace."
+                    ],
+                    [
+                      "3",
+                      "I see omens in every event and action. The gods try to speak to us, we just need to listen."
+                    ],
+                    [
+                      "4",
+                      "Nothing can shake my optimistic attitude."
+                    ],
+                    [
+                      "5",
+                      "I quote (or misquote) sacred texts and proverbs in almost every situation."
+                    ],
+                    [
+                      "6",
+                      "I am tolerant (or intolerant) of other faiths and respect (or condemn) the worship of other gods."
+                    ],
+                    [
+                      "7",
+                      "I've enjoyed fine food, drink, and high society among my temple's elite. Rough living grates on me."
+                    ],
+                    [
+                      "8",
+                      "I've spent so long in the temple that I have little practical experience dealing with people in the outside world."
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Ideal"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld. (Lawful)"
+                    ],
+                    [
+                      "2",
+                      "Charity. I always try to help those in need, no matter what the personal cost. (Good)"
+                    ],
+                    [
+                      "3",
+                      "Change. We must help bring about the changes the gods are constantly working in the world. (Chaotic)"
+                    ],
+                    [
+                      "4",
+                      "Power. I hope to one day rise to the top of my faith's religious hierarchy. (Lawful)"
+                    ],
+                    [
+                      "5",
+                      "Faith. I trust that my deity will guide my actions. I have faith that if I work hard, things will go well. (Lawful)"
+                    ],
+                    [
+                      "6",
+                      "Aspiration. I seek to prove myself worthy of my god's favor by matching my actions against his or her teachings. (Any)"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Bond"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "I would die to recover an ancient relic of my faith that was lost long ago."
+                    ],
+                    [
+                      "2",
+                      "I will someday get revenge on the corrupt temple hierarchy who branded me a heretic."
+                    ],
+                    [
+                      "3",
+                      "I owe my life to the priest who took me in when my parents died."
+                    ],
+                    [
+                      "4",
+                      "Everything I do is for the common people."
+                    ],
+                    [
+                      "5",
+                      "I will do anything to protect the temple where I served."
+                    ],
+                    [
+                      "6",
+                      "I seek to preserve a sacred text that my enemies consider heretical and seek to destroy."
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Flaw"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "I judge others harshly, and myself even more severely."
+                    ],
+                    [
+                      "2",
+                      "I put too much trust in those who wield power within my temple's hierarchy."
+                    ],
+                    [
+                      "3",
+                      "My piety sometimes leads me to blindly trust those that profess faith in my god."
+                    ],
+                    [
+                      "4",
+                      "I am inflexible in my thinking."
+                    ],
+                    [
+                      "5",
+                      "I am suspicious of strangers and expect the worst of them."
+                    ],
+                    [
+                      "6",
+                      "Once I pick a goal, I become obsessed with it to the detriment of everything else in my life."
+                    ]
+                  ]
+                }
+              ]
+            }
+          ],
+          "skillProficiencies": [
+            {
+              "insight": true,
+              "religion": true
+            }
+          ],
+          "languageProficiencies": [
+            {
+              "anyStandard": 2
+            }
+          ],
+          "startingEquipment": [
+            {
+              "_": [
+                {
+                  "item": "holy symbol|phb",
+                  "displayName": "holy symbol (a gift to you when you entered the priesthood)"
+                },
+                {
+                  "special": "sticks of incense",
+                  "quantity": 5
+                },
+                {
+                  "special": "vestments"
+                },
+                "common clothes|phb",
+                {
+                  "item": "pouch|phb",
+                  "containsValue": 1500
+                }
+              ]
+            },
+            {
+              "a": [
+                {
+                  "item": "book|phb",
+                  "displayName": "prayer book"
+                }
+              ],
+              "b": [
+                {
+                  "special": "prayer wheel"
+                }
+              ]
+            }
+          ],
+          "__prop": "background",
+          "_skillDisplay": "Insight, Religion"
+        }
+      }
+    },
+    "exportSource": {
+      "world": "test-world",
+      "system": "dnd5e",
+      "coreVersion": "0.7.9",
+      "systemVersion": "1.2.4"
+    }
+  },
+  "img": "modules/plutonium/media/icon/tied-scroll.svg",
+  "effects": []
+}

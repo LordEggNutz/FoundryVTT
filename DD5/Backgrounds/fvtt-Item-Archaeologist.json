@@ -1,0 +1,385 @@
+{
+  "_id": "CecV32BOAI74GDCI",
+  "name": "Archaeologist",
+  "type": "feat",
+  "data": {
+    "description": {
+      "value": "<div>\n<div class=\"rd__b  rd__b--1\">\n<p>History is made every day, but not all people care to remember it. People write stuff down, but it is not always preserved as it should be. People scoff at its value and call it junk, relics of the past to be forgotten. They are wrong. You are one of the few who stand against that ignorance. You keep those records and artifacts. You see the value of them, as well as what history and significance they possess. You may even know their value where others sneer at a bit of wear and tear. Time destroys, but it makes things all the more valuable to have and remember. Perhaps you are called a packrat, but let them. You have to yourself, a trove of treasures from times when no one remembers.</p>\n<hr />\n<ul class=\"rd__list rd__list-hang-notitle\">\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Skill Proficiencies:</span> History, Survival</p>\n</li>\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Tool Proficiencies:</span> Cartographer's tools or navigator's tools</p>\n</li>\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Languages:</span> One of your choice</p>\n</li>\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Equipment:</span></p>\n<ul class=\"rd__list rd__list-hang-notitle\">\n<li class=\"rd__li \">\n<p>A wooden case containing a map to a ruin or dungeon</p>\n</li>\n<li class=\"rd__li \">\n<p>A bullseye lantern</p>\n</li>\n<li class=\"rd__li \">\n<p>A miner's pick</p>\n</li>\n<li class=\"rd__li \">\n<p>A set of traveler's clothes</p>\n</li>\n<li class=\"rd__li \">\n<p>A shovel</p>\n</li>\n<li class=\"rd__li \">\n<p>A two-person tent</p>\n</li>\n<li class=\"rd__li \">\n<p>A trinket recovered from a dig site</p>\n</li>\n<li class=\"rd__li \">\n<p>A pouch containing 25 den</p>\n</li>\n</ul>\n</li>\n</ul>\n<div class=\"rd__b  rd__b--2\"><hr /></div>\n<div class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"88\"><span class=\"entry-title-inner\">Dust Digger</span></span>\n<p>Prior to becoming an adventurer, you spent most of your young life crawling around in the dust, pilfering relics of questionable value from crypts and ruins. Though you managed to sell a few of your discoveries and earn enough coin to buy proper adventuring gear, you have held onto an item that has great emotional value to you. Roll on the Signature Item table to see what you have, or choose an item from the table.</p>\n<table class=\" stripe-odd-table\"><caption>Signature Item</caption>\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d8]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Item</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">10-foot pole</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">Crowbar</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">Hat</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">Hooded lantern</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">Medallion</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">Shovel</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"7\" data-roll-max=\"7\">7</td>\n<td class=\"col-11\">Sledgehammer</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"8\" data-roll-max=\"8\">8</td>\n<td class=\"col-11\">Whip</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"rd__b  rd__b--2\"><hr /></div>\n<div class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"89\"><span class=\"entry-title-inner\">Feature: Historical Knowledge</span></span>\n<p>When you enter a ruin or dungeon, you can correctly ascertain its original purpose and determine its builders, whether those were dwarves, elves, humans, yuan-ti, or some other known race. In addition, you can determine the monetary value of art objects more than a century old.</p>\n</div>\n<div class=\"rd__b  rd__b--2\"><hr /></div>\n<div class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"90\"><span class=\"entry-title-inner\">Suggested Characteristics</span></span>\n<p>Few archaeologists can resist the lure of an unexplored ruin or dungeon, particularly if such a site is the source of legends or is rumored to contain the treasures and relics of wizards, warlords, or royalty. Some archaeologists plunder for wealth or fame, while others consider it their calling to illuminate the past or keep the world's greatest treasures from falling into the wrong hands. Whatever their motivations, archaeologists combine the qualities of a scrappy historian with the self-made heroism of a treasure-hunting scoundrel.</p>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d8]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Personality Trait</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">I love a good puzzle or mystery</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">I'm a pack rat who never throws anything away.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">Fame is more important to me than money.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I have no qualms about stealing from the dead.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">I'm happier in a dusty old tomb than I am in the centers of civilization.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">Traps don't make me nervous. Idiots who trigger traps make me nervous.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"7\" data-roll-max=\"7\">7</td>\n<td class=\"col-11\">I might fail, but I will never give up.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"8\" data-roll-max=\"8\">8</td>\n<td class=\"col-11\">You might think I'm a scholar, but I love a good brawl. These fists were made for punching.</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Ideal</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">Preservation. That artifact belongs in a museum. (Good)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">Greed. I won't risk my life for nothing. I expect some kind of payment. (Any)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">Death Wish. Nothing is more exhilarating than a narrow escape from the jaws of death. (Chaotic)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">Dignity. The dead and their belongings deserve to be treated with respect. (Lawful)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">Immortality. All of my exploring is part of a plan to find the secret of everlasting life. (Any)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">Danger. With every great discovery comes grave danger. The two walk hand in hand. (Any)</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Bond</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">Ever since I was a child, I've heard stories about a lost city. I aim to find it, learn its secrets, and earn my place in the history books.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">I want to find my mentor, who disappeared on an expedition some time ago.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">I have a friendly rival. Only one of us can be the best, and I aim to prove it's me.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I won't sell an art object or other treasure that has historical significance or is one of a kind.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">I'm secretly in love with the wealthy patron who sponsors my archaeological exploits.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">I hope to bring prestige to a library, a museum, or a university.</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Flaw</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">I have a secret fear of some common wild animal - and in my work, I see them everywhere.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">I can't leave a room without searching it for secret doors.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">When I'm not exploring dungeons or ruins. I get jittery and impatient.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I have no time for friends or family. I spend every waking moment thinking about and preparing for my next expedition.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">When given the choice of going left or right, I always go left.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">I can't sleep except in total darkness.</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>",
+      "chat": "",
+      "uni dentified": ""
+    },
+    "source": "ToA pg. 192",
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "sort": 300000,
+  "flags": {
+    "plutonium": {
+      "source": "ToA",
+      "hash": "archaeologist_toa",
+      "data": {
+        "background": {
+          "name": "Archaeologist",
+          "source": "ToA",
+          "page": 192,
+          "entries": [
+            {
+              "type": "list",
+              "style": "list-hang-notitle",
+              "items": [
+                {
+                  "type": "item",
+                  "name": "Skill Proficiencies",
+                  "entry": "{@skill History}, {@skill Survival}"
+                },
+                {
+                  "type": "item",
+                  "name": "Tool Proficiencies",
+                  "entry": "{@item Cartographer's tools|phb} or {@item navigator's tools|phb}"
+                },
+                {
+                  "type": "item",
+                  "name": "Languages",
+                  "entry": "One of your choice"
+                },
+                {
+                  "type": "item",
+                  "name": "Equipment",
+                  "entry": "A {@item Map or Scroll Case|phb|woo den case} containing a map to a ruin or dungeon, a {@item bullseye lantern|phb}, a {@item miner's pick|phb}, a set of {@item traveler's clothes|phb}, a {@item shovel|phb}, a {@item two-person tent|phb}, a {@item trinket|phb|trinket} recovered from a dig site, and a {@item pouch|phb} containing 25 den"
+                }
+              ]
+            },
+            {
+              "name": "Dust Digger",
+              "type": "entries",
+              "entries": [
+                "Prior to becoming an adventurer, you spent most of your young life crawling around in the dust, pilfering relics of questionable value from crypts and ruins. Though you managed to sell a few of your discoveries and earn enough coin to buy proper adventuring gear, you have held onto an item that has great emotional value to you. Roll on the Signature Item table to see what you have, or choose an item from the table.",
+                {
+                  "type": "table",
+                  "caption": "Signature Item",
+                  "colLabels": [
+                    "d8",
+                    "Item"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "{@item pole (10-foot)|phb|10-foot pole}"
+                    ],
+                    [
+                      "2",
+                      "{@item Crowbar|phb}"
+                    ],
+                    [
+                      "3",
+                      "Hat"
+                    ],
+                    [
+                      "4",
+                      "{@item Hooded lantern|phb}"
+                    ],
+                    [
+                      "5",
+                      "Medallion"
+                    ],
+                    [
+                      "6",
+                      "{@item Shovel|phb}"
+                    ],
+                    [
+                      "7",
+                      "{@item Sledgehammer|phb}"
+                    ],
+                    [
+                      "8",
+                      "{@item Whip|phb}"
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Feature: Historical Knowledge",
+              "type": "entries",
+              "entries": [
+                "When you enter a ruin or dungeon, you can correctly ascertain its original purpose and determine its builders, whether those were dwarves, elves, humans, yuan-ti, or some other known race. In addition, you can determine the monetary value of art objects more than a century old."
+              ],
+              "data": {
+                "isFeature": true
+              }
+            },
+            {
+              "name": "Suggested Characteristics",
+              "type": "entries",
+              "entries": [
+                "Few archaeologists can resist the lure of an unexplored ruin or dungeon, particularly if such a site is the source of legends or is rumored to contain the treasures and relics of wizards, warlords, or royalty. Some archaeologists plunder for wealth or fame, while others consider it their calling to illuminate the past or keep the world's greatest treasures from falling into the wrong hands. Whatever their motivations, archaeologists combine the qualities of a scrappy historian with the self-made heroism of a treasure-hunting scoundrel.",
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d8",
+                    "Personality Trait"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "I love a good puzzle or mystery"
+                    ],
+                    [
+                      "2",
+                      "I'm a pack rat who never throws anything away."
+                    ],
+                    [
+                      "3",
+                      "Fame is more important to me than money."
+                    ],
+                    [
+                      "4",
+                      "I have no qualms about stealing from the dead."
+                    ],
+                    [
+                      "5",
+                      "I'm happier in a dusty old tomb than I am in the centers of civilization."
+                    ],
+                    [
+                      "6",
+                      "Traps don't make me nervous. Idiots who trigger traps make me nervous."
+                    ],
+                    [
+                      "7",
+                      "I might fail, but I will never give up."
+                    ],
+                    [
+                      "8",
+                      "You might think I'm a scholar, but I love a good brawl. These fists were made for punching."
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Ideal"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "Preservation. That artifact belongs in a museum. (Good)"
+                    ],
+                    [
+                      "2",
+                      "Greed. I won't risk my life for nothing. I expect some kind of payment. (Any)"
+                    ],
+                    [
+                      "3",
+                      "Death Wish. Nothing is more exhilarating than a narrow escape from the jaws of death. (Chaotic)"
+                    ],
+                    [
+                      "4",
+                      "Dignity. The dead and their belongings deserve to be treated with respect. (Lawful)"
+                    ],
+                    [
+                      "5",
+                      "Immortality. All of my exploring is part of a plan to find the secret of everlasting life. (Any)"
+                    ],
+                    [
+                      "6",
+                      "Danger. With every great discovery comes grave danger. The two walk hand in hand. (Any)"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Bond"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "Ever since I was a child, I've heard stories about a lost city. I aim to find it, learn its secrets, and earn my place in the history books."
+                    ],
+                    [
+                      "2",
+                      "I want to find my mentor, who disappeared on an expedition some time ago."
+                    ],
+                    [
+                      "3",
+                      "I have a friendly rival. Only one of us can be the best, and I aim to prove it's me."
+                    ],
+                    [
+                      "4",
+                      "I won't sell an art object or other treasure that has historical significance or is one of a kind."
+                    ],
+                    [
+                      "5",
+                      "I'm secretly in love with the wealthy patron who sponsors my archaeological exploits."
+                    ],
+                    [
+                      "6",
+                      "I hope to bring prestige to a library, a museum, or a university."
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Flaw"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "I have a secret fear of some common wild animal - and in my work, I see them everywhere."
+                    ],
+                    [
+                      "2",
+                      "I can't leave a room without searching it for secret doors."
+                    ],
+                    [
+                      "3",
+                      "When I'm not exploring dungeons or ruins. I get jittery and impatient."
+                    ],
+                    [
+                      "4",
+                      "I have no time for friends or family. I spend every waking moment thinking about and preparing for my next expedition."
+                    ],
+                    [
+                      "5",
+                      "When given the choice of going left or right, I always go left."
+                    ],
+                    [
+                      "6",
+                      "I can't sleep except in total darkness."
+                    ]
+                  ]
+                }
+              ]
+            }
+          ],
+          "skillProficiencies": [
+            {
+              "history": true,
+              "survival": true
+            }
+          ],
+          "languageProficiencies": [
+            {
+              "anyStandard": 1
+            }
+          ],
+          "toolProficiencies": [
+            {
+              "choose": {
+                "from": [
+                  "navigator's tools",
+                  "cartographer's tools"
+                ]
+              }
+            }
+          ],
+          "startingEquipment": [
+            {
+              "_": [
+                {
+                  "item": "map or scroll case|phb",
+                  "displayName": "woo den case containing a map to a ruin or dungeon"
+                },
+                "bullseye lantern|phb",
+                "miner's pick|phb",
+                "traveler's clothes|phb",
+                "shovel|phb",
+                "two-person tent|phb",
+                {
+                  "item": "trinket|phb",
+                  "displayName": "trinket recovered from a dig site"
+                },
+                {
+                  "item": "pouch|phb",
+                  "containsValue": 2500
+                }
+              ]
+            }
+          ],
+          "__prop": "background",
+          "_skillDisplay": "History, Survival"
+        }
+      }
+    },
+    "exportSource": {
+      "world": "test-world",
+      "system": "dnd5e",
+      "coreVersion": "0.7.9",
+      "systemVersion": "1.2.4"
+    }
+  },
+  "img": "modules/game-icons-net/blackbackground/abstract-019.svg",
+  "effects": []
+}

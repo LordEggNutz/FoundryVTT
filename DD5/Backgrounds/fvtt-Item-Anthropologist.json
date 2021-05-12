@@ -1,0 +1,358 @@
+{
+  "_id": "B0DH153FcMsABG2b",
+  "name": "Anthropologist",
+  "type": "feat",
+  "data": {
+    "description": {
+      "value": "<div>\n<div class=\"rd__b  rd__b--1\">\n<p>You have always been fascinated by other cultures, from the most ancient and primeval lost lands to the most modern civilizations. By studying other cultures' customs, philosophies, laws, rituals, religious beliefs, languages, and art, you have learned how tribes, empires, and all forms of society in between craft their own destinies and doom. This knowledge came to you not only through books and scrolls, but also through firsthand observation- by visiting far-flung settlements and exploring local histories and customs.</p>\n<hr />\n<ul class=\"rd__list rd__list-hang-notitle\">\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Skill Proficiencies:</span> Insight, Religion</p>\n</li>\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Languages:</span> Two of your choice</p>\n</li>\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Equipment:</span></p>\n<ul class=\"rd__list rd__list-hang-notitle\">\n<li class=\"rd__li \">\n<p>A leather-bound diary</p>\n</li>\n<li class=\"rd__li \">\n<p>A bottle of ink</p>\n</li>\n<li class=\"rd__li \">\n<p>An ink pen</p>\n</li>\n<li class=\"rd__li \">\n<p>A set of traveler's clothes</p>\n</li>\n<li class=\"rd__li \">\n<p>One trinket of special significance</p>\n</li>\n<li class=\"rd__li \">\n<p>A pouch containing 10 den</p>\n</li>\n</ul>\n</li>\n</ul>\n<div class=\"rd__b  rd__b--2\"><hr /></div>\n<div class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"85\"><span class=\"entry-title-inner\">Cultural Chameleon</span></span>\n<p>Before becoming an adventurer, you spent much of your adult life away from your homeland, living among people different from your kin. You came to understand these foreign cultures and the ways of their people, who eventually treated you as one of their own. One culture had more of an influence on you than any other, shaping your beliefs and customs Choose a race whose culture you've adopted, or roll on the Adopted Culture table.</p>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d8]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Culture</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">Dwarf</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">Elf</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">Giant</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">Goblin</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">Halfling</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">Human</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"7\" data-roll-max=\"7\">7</td>\n<td class=\"col-11\">Lizardfolk</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"8\" data-roll-max=\"8\">8</td>\n<td class=\"col-11\">Orc</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"rd__b  rd__b--2\"><hr /><span class=\"rd__h rd__h--2\" data-title-index=\"86\"><span class=\"entry-title-inner\">Feature: Adept Linguist</span></span>\n<p>You can communicate with humanoids who don't speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures - enough to communicate on a rudimentary level.</p>\n</div>\n<div class=\"rd__b  rd__b--2\"><hr /></div>\n<div class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"87\"><span class=\"entry-title-inner\">Suggested Characteristics</span></span>\n<p>Anthropologists leave behind the societies into which they were born to discover what life is like in other parts of the world. They seek to see how other races and civilizations survive - or why they did not. Some anthropologists are driven by intellectual curiosity, while others want the fame and recognition that comes with being the first to discover a new people, a lost tribe, or the truth about an ancient empire's downfall.</p>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Personality Trait</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">I prefer the company of those who aren't like me, including people of other races</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">I'm a stickler when it comes to observing proper etiquette and local customs</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">I would rather observe than meddle</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">By living among violent people, I have become desensitized to violence.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">I would risk life and limb to discover a new culture or unravel the secrets of a dead one.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">When I arrive at a new settlement for the first time, I must learn all its customs.</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Ideal</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">Discovery. I want to be the first person to discover a lost culture. (Any)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">Distance. One must not interfere with the affairs of another culture - even one in need of aid. (Lawful)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">Knowledge. By understanding other races and cultures, we learn to understand ourselves. (Any)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">Power. Common people crave strong leadership, and I do my utmost to provide it. (Lawful)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">Protection. I must do everything possible to save a society facing extinction. (Good)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">Indifferent. Life is cruel. What's the point in saving people if they're going to die anyway? (Chaotic)</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Bond</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">My mentor gave me a journal filled with lore and wisdom. Losing it would devastate me.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">Having lived among the people of a primeval tribe or clan, I long to return and see how they are faring.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">Years ago, tragedy struck the members of an isolated society I befriended, and I will honor them.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I want to learn more about a particular humanoid culture that fascinates me.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">I seek to avenge a clan, tribe, kingdom, or empire that was wiped out.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">I have a trinket that I believe is the key to finding a long-lost society.</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Flaw</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">Boats make me seasick.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">I talk to myself, and I don't make friends easily.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">I believe that I'm intellectually superior to people from other cultures and have much to teach them.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I've picked up some unpleasant habits living among goblins, lizardfolk, or orcs.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">I complain about everything.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">I wear a tribal mask and never take it off.</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>",
+      "chat": "",
+      "uni dentified": ""
+    },
+    "source": "ToA pg. 191",
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "sort": 200000,
+  "flags": {
+    "plutonium": {
+      "source": "ToA",
+      "hash": "anthropologist_toa",
+      "data": {
+        "background": {
+          "name": "Anthropologist",
+          "source": "ToA",
+          "page": 191,
+          "entries": [
+            {
+              "type": "list",
+              "style": "list-hang-notitle",
+              "items": [
+                {
+                  "type": "item",
+                  "name": "Skill Proficiencies",
+                  "entry": "{@skill Insight}, {@skill Religion}"
+                },
+                {
+                  "type": "item",
+                  "name": "Languages",
+                  "entry": "Two of your choice"
+                },
+                {
+                  "type": "item",
+                  "name": "Equipment",
+                  "entry": "A leather-bound diary, a {@item Ink (1-ounce bottle)|phb|bottle of ink}, an {@item ink pen|phb}, a set of {@item traveler's clothes|phb}, one {@item trinket|phb} of special significance, and a {@item pouch|phb} containing 10 den"
+                }
+              ]
+            },
+            {
+              "name": "Cultural Chameleon",
+              "type": "entries",
+              "entries": [
+                "Before becoming an adventurer, you spent much of your adult life away from your homeland, living among people different from your kin. You came to understand these foreign cultures and the ways of their people, who eventually treated you as one of their own. One culture had more of an influence on you than any other, shaping your beliefs and customs Choose a race whose culture you've adopted, or roll on the Adopted Culture table.",
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d8",
+                    "Culture"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "Aarakocra"
+                    ],
+                    [
+                      "2",
+                      "Dwarf"
+                    ],
+                    [
+                      "3",
+                      "Elf"
+                    ],
+                    [
+                      "4",
+                      "Goblin"
+                    ],
+                    [
+                      "5",
+                      "Halfling"
+                    ],
+                    [
+                      "6",
+                      "Human"
+                    ],
+                    [
+                      "7",
+                      "Lizardfolk"
+                    ],
+                    [
+                      "8",
+                      "Orc"
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Feature: Adept Linguist",
+              "type": "entries",
+              "entries": [
+                "You can communicate with humanoids who don't speak any language you know. You must observe the humanoids interacting with one another for at least 1 day, after which you learn a handful of important words, expressions, and gestures - enough to communicate on a rudimentary level."
+              ],
+              "data": {
+                "isFeature": true
+              }
+            },
+            {
+              "name": "Suggested Characteristics",
+              "type": "entries",
+              "entries": [
+                "Anthropologists leave behind the societies into which they were born to discover what life is like in other parts of the world. They seek to see how other races and civilizations survive - or why they did not. Some anthropologists are driven by intellectual curiosity, while others want the fame and recognition that comes with being the first to discover a new people, a lost tribe, or the truth about an ancient empire's downfall.",
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Personality Trait"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "I prefer the company of those who aren't like me, including people of other races"
+                    ],
+                    [
+                      "2",
+                      "I'm a stickler when it comes to observing proper etiquette and local customs"
+                    ],
+                    [
+                      "3",
+                      "I would rather observe than meddle"
+                    ],
+                    [
+                      "4",
+                      "By living among violent people, I have become desensitized to violence."
+                    ],
+                    [
+                      "5",
+                      "I would risk life and limb to discover a new culture or unravel the secrets of a dead one."
+                    ],
+                    [
+                      "6",
+                      "When I arrive at a new settlement for the first time, I must learn all its customs."
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Ideal"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "Discovery. I want to be the first person to discover a lost culture. (Any)"
+                    ],
+                    [
+                      "2",
+                      "Distance. One must not interfere with the affairs of another culture - even one in need of aid. (Lawful)"
+                    ],
+                    [
+                      "3",
+                      "Knowledge. By understanding other races and cultures, we learn to understand ourselves. (Any)"
+                    ],
+                    [
+                      "4",
+                      "Power. Common people crave strong leadership, and I do my utmost to provide it. (Lawful)"
+                    ],
+                    [
+                      "5",
+                      "Protection. I must do everything possible to save a society facing extinction. (Good)"
+                    ],
+                    [
+                      "6",
+                      "Indifferent. Life is cruel. What's the point in saving people if they're going to die anyway? (Chaotic)"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Bond"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "My mentor gave me a journal filled with lore and wisdom. Losing it would devastate me."
+                    ],
+                    [
+                      "2",
+                      "Having lived among the people of a primeval tribe or clan, I long to return and see how they are faring."
+                    ],
+                    [
+                      "3",
+                      "Years ago, tragedy struck the members of an isolated society I befriended, and I will honor them."
+                    ],
+                    [
+                      "4",
+                      "I want to learn more about a particular humanoid culture that fascinates me."
+                    ],
+                    [
+                      "5",
+                      "I seek to avenge a clan, tribe, kingdom, or empire that was wiped out."
+                    ],
+                    [
+                      "6",
+                      "I have a trinket that I believe is the key to finding a long-lost society."
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Flaw"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "Boats make me seasick."
+                    ],
+                    [
+                      "2",
+                      "I talk to myself, and I don't make friends easily."
+                    ],
+                    [
+                      "3",
+                      "I believe that I'm intellectually superior to people from other cultures and have much to teach them."
+                    ],
+                    [
+                      "4",
+                      "I've picked up some unpleasant habits living among goblins, lizardfolk, or orcs."
+                    ],
+                    [
+                      "5",
+                      "I complain about everything."
+                    ],
+                    [
+                      "6",
+                      "I wear a tribal mask and never take it off."
+                    ]
+                  ]
+                }
+              ]
+            }
+          ],
+          "skillProficiencies": [
+            {
+              "insight": true,
+              "religion": true
+            }
+          ],
+          "languageProficiencies": [
+            {
+              "anyStandard": 2
+            }
+          ],
+          "startingEquipment": [
+            {
+              "_": [
+                {
+                  "special": "leather-bound diary"
+                },
+                "ink (1-ounce bottle)|phb",
+                "ink pen|phb",
+                "traveler's clothes|phb",
+                {
+                  "item": "trinket|phb",
+                  "displayName": "trinket of special significance"
+                },
+                {
+                  "item": "pouch|phb",
+                  "containsValue": 1000
+                }
+              ]
+            }
+          ],
+          "__prop": "background",
+          "_skillDisplay": "Insight, Religion"
+        }
+      }
+    },
+    "exportSource": {
+      "world": "test-world",
+      "system": "dnd5e",
+      "coreVersion": "0.7.9",
+      "systemVersion": "1.2.4"
+    }
+  },
+  "img": "modules/game-icons-net/blackbackground/archive-register.svg",
+  "effects": []
+}

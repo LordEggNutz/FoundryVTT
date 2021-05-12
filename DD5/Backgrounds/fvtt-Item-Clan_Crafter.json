@@ -1,0 +1,422 @@
+{
+  "_id": "D4Iub0CEevkMeTfd",
+  "name": "Clan Crafter",
+  "type": "feat",
+  "data": {
+    "description": {
+      "value": "<div>\n<div class=\"rd__b  rd__b--1\">\n<p>The Stout Folk are well known for their artisanship and the worth of their handiworks, and you have been trained in that ancient tradition. For years you labored under a dwarf master of the craft, enduring long hours and dismissive, sour-tempered treatment in order to gain the fine skills you possess today.</p>\n<p>You are most likely a dwarf, but not necessarily&mdash;particularly in the North, the shield dwarf clans learned long ago that only proud fools who are more concerned for their egos than their craft turn away promising apprentices, even those of other races. If you aren't a dwarf, however, you have taken a solemn oath never to take on an apprentice in the craft: it is not for nondwarves to pass on the skills of Moradin's favored children. You would have no difficulty, however, finding a dwarf master who was willing to receive potential apprentices who came with your recommendation.</p>\n<hr />\n<ul class=\"rd__list rd__list-hang-notitle\">\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Skill Proficiencies:</span> History, Insight</p>\n</li>\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Tool Proficiencies:</span> One type of artisan's tools</p>\n</li>\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Languages:</span> Dwarvish or one of your choice if you already speak Dwarvish</p>\n</li>\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Equipment:</span></p>\n<ul class=\"rd__list rd__list-hang-notitle\">\n<li class=\"rd__li \">\n<p>A set of artisan's tools with which you are proficient</p>\n</li>\n<li class=\"rd__li \">\n<p>A maker's mark chisel used to mark your handiwork with the symbol of the clan of crafters you learned your skill from</p>\n</li>\n<li class=\"rd__li \">\n<p>A set of traveler's clothes</p>\n</li>\n<li class=\"rd__li \">\n<p>A pouch containing 5 den</p>\n</li>\n<li class=\"rd__li \">\n<p>A gem worth 10 den</p>\n</li>\n</ul>\n</li>\n</ul>\n<div class=\"rd__b  rd__b--2\"><hr /></div>\n<div class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"99\"><span class=\"entry-title-inner\">Feature: Respect of the Stout Folk</span></span>\n<p>As well respected as clan crafters are among outsiders, no one esteems them quite so highly as dwarves do. You always have free room and board in any place where shield dwarves or gold dwarves dwell, and the individuals in such a settlement might vie among themselves to determine who can offer you (and possibly your companions) the finest accommodations and assistance.</p>\n</div>\n<div class=\"rd__b  rd__b--2\"><hr /></div>\n<div class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"100\"><span class=\"entry-title-inner\">Suggested Characteristics</span></span>\n<p>Your bond is almost certainly related to the master or the clan that taught you, or else to the work that you produce. Your ideal might have to do with maintaining the high quality of your work or preserving the dwarven traditions of craftsmanship.</p>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d8]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Personality Trait</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">I believe that anything worth doing is worth doing right. I can't help it&mdash;I'm a perfectionist.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">I'm a snob who looks down on those who can't appreciate fine art.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">I always want to know how things work and what makes people tick.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I'm full of witty aphorisms and have a proverb for every occasion.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">I'm rude to people who lack my commitment to hard work and fair play.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">I like to talk at length about my profession.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"7\" data-roll-max=\"7\">7</td>\n<td class=\"col-11\">I don't part with my money easily and will haggle tirelessly to get the best deal possible.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"8\" data-roll-max=\"8\">8</td>\n<td class=\"col-11\">I'm well known for my work, and I want to make sure everyone appreciates it. I'm always taken aback when people haven't heard of me.</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Ideal</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">Community. It is the duty of all civilized people to strengthen the bonds of community and the security of civilization. (Lawful)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">Generosity. My talents were given to me so that I could use them to benefit the world. (Good)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">Freedom. Everyone should be free to pursue his or her own livelihood. (Chaotic)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">Greed. I'm only in it for the money. (Evil)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">People. I'm committed to the people I care about, not to ideals. (Neutral)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">Aspiration. I work hard to be the best there is at my craft. (Any)</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Bond</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">The workshop where I learned my trade is the most important place in the world to me.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">I created a great work for someone, and then found them unworthy to receive it. I'm still looking for someone worthy.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">I owe my guild a great debt for forging me into the person I am today.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I pursue wealth to secure someone's love.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">One day I will return to my guild and prove that I am the greatest artisan of them all.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">I will get revenge on the evil forces that destroyed my place of business and ruined my livelihood.</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Flaw</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">I'll do anything to get my hands on something rare or priceless.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">I'm quick to assume that someone is trying to cheat me.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">No one must ever learn that I once stole money from guild coffers.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I'm never satisfied with what I have&mdash;I always want more.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">I would kill to acquire a noble title.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go, I'm surrounded by rivals.</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>",
+      "chat": "",
+      "unidentified": "",
+      "uni dentified": ""
+    },
+    "source": "SCAG pg. 145",
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "sort": 500000,
+  "flags": {
+    "plutonium": {
+      "source": "SCAG",
+      "hash": "clan%20crafter_scag",
+      "data": {
+        "background": {
+          "name": "Clan Crafter",
+          "source": "SCAG",
+          "page": 145,
+          "entries": [
+            {
+              "type": "list",
+              "style": "list-hang-notitle",
+              "items": [
+                {
+                  "type": "item",
+                  "name": "Skill Proficiencies",
+                  "entry": "{@skill History}, {@skill Insight}"
+                },
+                {
+                  "type": "item",
+                  "name": "Tool Proficiencies",
+                  "entry": "One type of {@filter artisan's tools|items|source=phb|miscellaneous=mundane|type=artisan's tools}"
+                },
+                {
+                  "type": "item",
+                  "name": "Languages",
+                  "entry": "Dwarvish or one of your choice if you already speak Dwarvish"
+                },
+                {
+                  "type": "item",
+                  "name": "Equipment",
+                  "entry": "A set of {@filter artisan's tools|items|source=phb|miscellaneous=mundane|type=artisan's tools} with which you are proficient, a maker's mark chisel used to mark your handiwork with the symbol of the clan of crafters you learned your skill from, a set of {@item traveler's clothes|phb}, and a {@item pouch|phb} containing 5 den and a gem worth 10 den"
+                }
+              ]
+            },
+            {
+              "name": "Feature: Respect of the Stout Folk",
+              "type": "entries",
+              "entries": [
+                "As well respected as clan crafters are among outsiders, no one esteems them quite so highly as dwarves do. You always have free room and board in any place where shield dwarves or gold dwarves dwell, and the individuals in such a settlement might vie among themselves to determine who can offer you (and possibly your companions) the finest accommodations and assistance."
+              ],
+              "data": {
+                "isFeature": true
+              }
+            },
+            {
+              "name": "Specialty",
+              "type": "entries",
+              "entries": [
+                "Guilds are generally found in cities large enough to support several artisans practicing the same trade. However, your guild might instead be a loose network of artisans who each work in a different village within a larger realm. Work with your DM to determine the nature of your guild. You can select your guild business from the Guild Business table or roll randomly.",
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d20",
+                    "Guild Business"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "Alchemists and apothecaries"
+                    ],
+                    [
+                      "2",
+                      "Armorers, locksmiths, and finesmiths"
+                    ],
+                    [
+                      "3",
+                      "Brewers, distillers, and vintners"
+                    ],
+                    [
+                      "4",
+                      "Calligraphers, scribes, and scriveners"
+                    ],
+                    [
+                      "5",
+                      "Carpenters, roofers, and plasterers"
+                    ],
+                    [
+                      "6",
+                      "Cartographers, surveyors, and chart-makers"
+                    ],
+                    [
+                      "7",
+                      "Cobblers and shoemakers"
+                    ],
+                    [
+                      "8",
+                      "Cooks and bakers"
+                    ],
+                    [
+                      "9",
+                      "Glassblowers and glaziers"
+                    ],
+                    [
+                      "10",
+                      "Jewelers and gemcutters"
+                    ],
+                    [
+                      "11",
+                      "Leatherworkers, skinners, and tanners"
+                    ],
+                    [
+                      "12",
+                      "Masons and stonecutters"
+                    ],
+                    [
+                      "13",
+                      "Painters, limners, and sign-makers"
+                    ],
+                    [
+                      "14",
+                      "Potters and tile-makers"
+                    ],
+                    [
+                      "15",
+                      "Shipwrights and sail-makers"
+                    ],
+                    [
+                      "16",
+                      "Smiths and metal-forgers"
+                    ],
+                    [
+                      "17",
+                      "Tinkers, pewterers, and casters"
+                    ],
+                    [
+                      "18",
+                      "Wagon-makers and wheelwrights"
+                    ],
+                    [
+                      "19",
+                      "Weavers and dyers"
+                    ],
+                    [
+                      "20",
+                      "Woodcarvers, coopers, and bowyers"
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Suggested Characteristics",
+              "type": "entries",
+              "entries": [
+                "Guild artisans are among the most ordinary people in the world—until they set down their tools and take up an adventuring career. They understand the value of hard work and the importance of community, but they're vulnerable to sins of greed and covetousness.",
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d8",
+                    "Personality Trait"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "I believe that anything worth doing is worth doing right. I can't help it—I'm a perfectionist."
+                    ],
+                    [
+                      "2",
+                      "I'm a snob who looks down on those who can't appreciate fine art."
+                    ],
+                    [
+                      "3",
+                      "I always want to know how things work and what makes people tick."
+                    ],
+                    [
+                      "4",
+                      "I'm full of witty aphorisms and have a proverb for every occasion."
+                    ],
+                    [
+                      "5",
+                      "I'm rude to people who lack my commitment to hard work and fair play."
+                    ],
+                    [
+                      "6",
+                      "I like to talk at length about my profession."
+                    ],
+                    [
+                      "7",
+                      "I don't part with my money easily and will haggle tirelessly to get the best deal possible."
+                    ],
+                    [
+                      "8",
+                      "I'm well known for my work, and I want to make sure everyone appreciates it. I'm always taken aback when people haven't heard of me."
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Ideal"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "Community. It is the duty of all civilized people to strengthen the bonds of community and the security of civilization. (Lawful)"
+                    ],
+                    [
+                      "2",
+                      "Generosity. My talents were given to me so that I could use them to benefit the world. (Good)"
+                    ],
+                    [
+                      "3",
+                      "Freedom. Everyone should be free to pursue his or her own livelihood. (Chaotic)"
+                    ],
+                    [
+                      "4",
+                      "Greed. I'm only in it for the money. (Evil)"
+                    ],
+                    [
+                      "5",
+                      "People. I'm committed to the people I care about, not to ideals. (Neutral)"
+                    ],
+                    [
+                      "6",
+                      "Aspiration. I work hard to be the best there is at my craft. (Any)"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Bond"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "The workshop where I learned my trade is the most important place in the world to me."
+                    ],
+                    [
+                      "2",
+                      "I created a great work for someone, and then found them unworthy to receive it. I'm still looking for someone worthy."
+                    ],
+                    [
+                      "3",
+                      "I owe my guild a great debt for forging me into the person I am today."
+                    ],
+                    [
+                      "4",
+                      "I pursue wealth to secure someone's love."
+                    ],
+                    [
+                      "5",
+                      "One day I will return to my guild and prove that I am the greatest artisan of them all."
+                    ],
+                    [
+                      "6",
+                      "I will get revenge on the evil forces that destroyed my place of business and ruined my livelihood."
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Flaw"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "I'll do anything to get my hands on something rare or priceless."
+                    ],
+                    [
+                      "2",
+                      "I'm quick to assume that someone is trying to cheat me."
+                    ],
+                    [
+                      "3",
+                      "No one must ever learn that I once stole money from guild coffers."
+                    ],
+                    [
+                      "4",
+                      "I'm never satisfied with what I have—I always want more."
+                    ],
+                    [
+                      "5",
+                      "I would kill to acquire a noble title."
+                    ],
+                    [
+                      "6",
+                      "I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go, I'm surrounded by rivals."
+                    ]
+                  ]
+                }
+              ]
+            }
+          ],
+          "skillProficiencies": [
+            {
+              "history": true,
+              "insight": true
+            }
+          ],
+          "languageProficiencies": [
+            {
+              "dwarvish": true
+            }
+          ],
+          "toolProficiencies": [
+            {
+              "artisan's tools": true
+            }
+          ],
+          "startingEquipment": [
+            {
+              "_": [
+                {
+                  "equipmentType": "toolArtisan"
+                },
+                {
+                  "special": "maker's mark chisel used to mark your handiwork with the symbol of the clan of crafters you learned your skill from"
+                },
+                "traveler's clothes|phb",
+                {
+                  "item": "pouch|phb",
+                  "containsValue": 1500
+                }
+              ]
+            }
+          ],
+          "__prop": "background",
+          "_skillDisplay": "History, Insight"
+        }
+      }
+    },
+    "exportSource": {
+      "world": "test-world",
+      "system": "dnd5e",
+      "coreVersion": "0.7.9",
+      "systemVersion": "1.2.4"
+    }
+  },
+  "img": "modules/game-icons-net/blackbackground/blacksmith.svg",
+  "effects": []
+}

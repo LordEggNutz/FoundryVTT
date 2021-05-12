@@ -1,0 +1,160 @@
+{
+  "_id": "3CeTNcM8uNoLI7HB",
+  "name": "Investigator",
+  "type": "feat",
+  "data": {
+    "description": {
+      "value": "<div>\n<div class=\"rd__b  rd__b--1\">\n<p>Rarer than watch or patrol members are a community's investigators, who are responsible for solving crimes after the fact. Though such folk are seldom found in rural areas, nearly every settlement of decent size has at least one or two watch members who have the skill to investigate crime scenes and track down criminals. If your prior experience is as an investigator, you have proficiency in Investigation rather than Athletics.</p>\n<hr />\n<ul class=\"rd__list rd__list-hang-notitle\">\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Skill Proficiencies:</span> Insight, Investigation</p>\n</li>\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Languages:</span> Any two of your choice</p>\n</li>\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Equipment:</span>&nbsp;</p>\n<ul class=\"rd__list rd__list-hang-notitle\">\n<li class=\"rd__li \">\n<p>A uniform in the style of your unit and indicative of your rank</p>\n</li>\n<li class=\"rd__li \">\n<p>A horn with which to summon help</p>\n</li>\n<li class=\"rd__li \">\n<p>A set of manacles</p>\n</li>\n<li class=\"rd__li \">\n<p>A pouch containing 10 den</p>\n</li>\n</ul>\n</li>\n</ul>\n<div class=\"rd__b  rd__b--2\"><hr /></div>\n<div class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"147\"><span class=\"entry-title-inner\">Feature: Watcher's Eye</span></span>\n<p>Your experience in enforcing the law, and dealing with lawbreakers, gives you a feel for local laws and criminals. You can easily find the local outpost of the watch or a similar organization, and just as easily pick out the dens of criminal activity in a community, although you're more likely to be welcome in the former locations rather than the latter.</p>\n</div>\n<div class=\"rd__b  rd__b--2\"><hr /></div>\n<div class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"148\"><span class=\"entry-title-inner\">Suggested Characteristics</span></span>\n<p>Your bond is likely associated with your fellow watch members or the watch organization itself and almost certainly concerns your community. Your ideal probably involves the fostering of peace and safety. An investigator is likely to have an ideal connected to achieving justice by successfully solving crimes.</p>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d8]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Personality Trait</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">I'm always polite and respectful.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">I'm haunted by memories of war. I can't get the images of violence out of my mind.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">I've lost too many friends, and I'm slow to make new ones.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I'm full of inspiring and cautionary tales from my military experience relevant to almost every combat situation.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">I can stare down a hell hound without flinching.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">I enjoy being strong and like breaking things.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"7\" data-roll-max=\"7\">7</td>\n<td class=\"col-11\">I have a crude sense of humor.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"8\" data-roll-max=\"8\">8</td>\n<td class=\"col-11\">I face problems head-on. A simple, direct solution is the best path to success.</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Ideal</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">Greater Good. Our lot is to lay down our lives in defense of others. (Good)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">Responsibility. I do what I must and obey just authority. (Lawful)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">Indepen dence. When people follow orders blindly, they embrace a kind of tyranny. (Chaotic)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">Might. In life as in war, the stronger force wins. (Evil)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">Live and Let Live. Ideals aren't worth killing over or going to war for. (Neutral)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">Nation. My city, nation, or people are all that matter. (Any)</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Bond</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">I would still lay down my life for the people I served with.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">Someone saved my life on the battlefield. To this day, I will never leave a friend behind.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">My honor is my life.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I'll never forget the crushing defeat my company suffered or the enemies who dealt it.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">Those who fight beside me are those worth dying for.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">I fight for those who cannot fight for themselves.</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Flaw</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">The monstrous enemy we faced in battle still leaves me quivering with fear.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">I have little respect for anyone who is not a proven warrior.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">I made a terrible mistake in battle that cost many lives&mdash;and I would do anything to keep that mistake secret.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">My hatred of my enemies is blinding and unreasoning.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">I obey the law, even if the law causes misery.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">I'd rather eat my armor than admit when I'm wrong.</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>",
+      "chat": "",
+      "uni dentified": ""
+    },
+    "source": "SCAG pg. 145",
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "sort": 1000000,
+  "flags": {
+    "plutonium": {
+      "source": "SCAG",
+      "hash": "variant%20city%20watch%20(investigator)_scag",
+      "data": {
+        "background": {
+          "name": "Investigator",
+          "source": "SCAG",
+          "page": 145,
+          "entries": [
+            {
+              "type": "list",
+              "style": "list-hang-notitle",
+              "items": [
+                {
+                  "type": "item",
+                  "name": "Skill Proficiencies",
+                  "entry": "{@skill Insight}, {@skill Investigation}"
+                },
+                {
+                  "type": "item",
+                  "name": "Languages",
+                  "entry": "Any two of your choice"
+                },
+                {
+                  "type": "item",
+                  "name": "Equipment",
+                  "entry": "A uniform in the style of your unit and indicative of your rank, a {@item horn|phb} with which to summon help, a set of {@item manacles|phb}, and a {@item pouch|phb} containing 10 den"
+                }
+              ]
+            },
+            {
+              "name": "Feature: Watcher's Eye",
+              "type": "entries",
+              "entries": [
+                "Your experience in enforcing the law, and dealing with lawbreakers, gives you a feel for local laws and criminals. You can easily find the local outpost of the watch or a similar organization, and just as easily pick out the dens of criminal activity in a community, although you're more likely to be welcome in the former locations rather than the latter."
+              ],
+              "data": {
+                "isFeature": true
+              }
+            },
+            {
+              "type": "entries",
+              "name": "Suggested Characteristics",
+              "entries": [
+                "Use the tables for the {@background soldier} background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your i dentity as a member of the city watch.",
+                "Your bond is likely associated with your fellow watch members or the watch organization itself and almost certainly concerns your community. Your ideal probably involves the fostering of peace and safety. An investigator is likely to have an ideal connected to achieving justice by successfully solving crimes."
+              ]
+            }
+          ],
+          "skillProficiencies": [
+            {
+              "insight": true,
+              "investigation": true
+            }
+          ],
+          "languageProficiencies": [
+            {
+              "anyStandard": 2
+            }
+          ],
+          "startingEquipment": [
+            {
+              "_": [
+                {
+                  "special": "uniform in the style of your unit and indicative of your rank"
+                },
+                {
+                  "item": "horn|phb",
+                  "displayName": "horn with which to summon help"
+                },
+                {
+                  "item": "manacles|phb",
+                  "displayName": "set of manacles"
+                },
+                {
+                  "item": "pouch|phb",
+                  "containsValue": 1000
+                }
+              ]
+            }
+          ],
+          "__prop": "background",
+          "_skillDisplay": "Insight, Investigation"
+        }
+      }
+    },
+    "exportSource": {
+      "world": "test-world",
+      "system": "dnd5e",
+      "coreVersion": "0.7.9",
+      "systemVersion": "1.2.4"
+    }
+  },
+  "img": "modules/game-icons-net/blackbackground/sherlock-holmes.svg",
+  "effects": []
+}

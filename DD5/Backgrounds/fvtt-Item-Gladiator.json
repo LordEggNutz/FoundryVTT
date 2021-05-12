@@ -1,0 +1,373 @@
+{
+  "_id": "wcRkHdi9RGDDQJEv",
+  "name": "Gladiator",
+  "type": "feat",
+  "data": {
+    "description": {
+      "value": "<div>\n<div class=\"rd__b  rd__b--1\">\n<p>You&rsquo;re a gladiator of the colosseum; You were captured, enslaved and forced to compete in death matches.Your fighting style made you a successful gladiator or was at least good enough to keep you alive. The colosseum is in your blood now, the events that took place, the memories that you replay in your dreams and your experiences have become you. Whether by choice or not, although you are free; you&rsquo;ll never escape the arena.</p>\n<hr />\n<ul class=\"rd__list rd__list-hang-notitle\">\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Skill Proficiencies:</span> Acrobatics, Performance</p>\n</li>\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Tool Proficiencies:</span> Disguise kit, one type of musical instrument</p>\n</li>\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Equipment:</span></p>\n<ul class=\"rd__list rd__list-hang-notitle\">\n<li class=\"rd__li \">\n<p>An inexpensive but unusual weapon, such as a trident or net (one of your choice)</p>\n</li>\n<li class=\"rd__li \">\n<p>The favor of an admirer (love letter, lock of hair, or trinket)</p>\n</li>\n<li class=\"rd__li \">\n<p>A set of costume clothes</p>\n</li>\n<li class=\"rd__li \">\n<p>A belt pouch containing 15 den</p>\n</li>\n</ul>\n</li>\n</ul>\n<div class=\"rd__b  rd__b--2\"><hr /></div>\n<div class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"152\"><span class=\"entry-title-inner\">Feature: By Popular Demand</span></span>\n<p>You can always find a place to perform in any place that features combat for entertainment&mdash;perhaps a gladiatorial arena or secret pit fighting club. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a liking to you.</p>\n</div>\n<div class=\"rd__b  rd__b--2\"><hr /></div>\n<div class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"153\"><span class=\"entry-title-inner\">Specialty</span></span>\n<p>A good entertainer is versatile, spicing up every performance with a variety of different routines. Choose one to three routines or roll on the table below to define your expertise as an entertainer.</p>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d10]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Routines</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">Actor</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">Dancer</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">Fire-eater</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">Jester</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">Juggler</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">Instrumentalist</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"7\" data-roll-max=\"7\">7</td>\n<td class=\"col-11\">Poet</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"8\" data-roll-max=\"8\">8</td>\n<td class=\"col-11\">Singer</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"9\" data-roll-max=\"9\">9</td>\n<td class=\"col-11\">Storyteller</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"10\" data-roll-max=\"10\">10</td>\n<td class=\"col-11\">Tumbler</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"rd__b  rd__b--2\"><hr /></div>\n<div class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"154\"><span class=\"entry-title-inner\">Suggested Characteristics</span></span>\n<p>Successful entertainers have to be able to capture and hold an audience's attention, so they tend to have flamboyant or forceful personalities. They're inclined toward the romantic and often cling to high-minded ideals about the practice of art and the appreciation of beauty.</p>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d8]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Personality Trait</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">I know a story relevant to almost every situation.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">Whenever I come to a new place, I collect local rumors and spread gossip.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">I'm a hopeless romantic, always searching for that \"special someone\".</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">Nobody stays angry at me or around me for long, since I can defuse any amount of tension.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">I love a good insult, even one directed at me.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">I get bitter if I'm not the center of attention.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"7\" data-roll-max=\"7\">7</td>\n<td class=\"col-11\">I'll settle for nothing less than perfection.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"8\" data-roll-max=\"8\">8</td>\n<td class=\"col-11\">I change my mood or my mind as quickly as I change key in a song.</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Ideal</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">Beauty. When I perform, I make the world better than it was. (Good)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">Tradition. The stories, legends, and songs of the past must never be forgotten, for they teach us who we are. (Lawful)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">Creativity. The world is in need of new ideas and bold action. (Chaotic)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">Greed. I'm only in it for the money and fame. (Evil)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">People. I like seeing the smiles on people's faces when I perform. That's all that matters. (Neutral)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">Honesty. Art should reflect the soul; it should come from within and reveal who we really are. (Any)</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Bond</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">My instrument is my most treasured possession, and it reminds me of someone I love.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">Someone stole my precious instrument, and someday I'll get it back.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">I want to be famous, whatever it takes.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I idolize a hero of the old tales and measure my deeds against that person's.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">I will do anything to prove myself superior to my hated rival.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">I would do anything for the other members of my old troupe.</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Flaw</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">I'll do anything to win fame and renown.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">I'm a sucker for a pretty face.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">A scandal prevents me from ever going home again. That kind of trouble seems to follow me around.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I once satirized a noble who still wants my head. It was a mistake that I will likely repeat.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">I have trouble keeping my true feelings hid den. My sharp tongue lands me in trouble.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">Despite my best efforts, I am unreliable to my friends.</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>",
+      "chat": "",
+      "uni dentified": ""
+    },
+    "source": "PHB pg. 131",
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "sort": 1300000,
+  "flags": {
+    "plutonium": {
+      "source": "PHB",
+      "hash": "variant%20entertainer%20(gladiator)_phb",
+      "data": {
+        "background": {
+          "name": "Gladiator",
+          "source": "PHB",
+          "page": 131,
+          "entries": [
+            {
+              "type": "list",
+              "style": "list-hang-notitle",
+              "items": [
+                {
+                  "type": "item",
+                  "name": "Skill Proficiencies",
+                  "entry": "{@skill Acrobatics}, {@skill Performance}"
+                },
+                {
+                  "type": "item",
+                  "name": "Tool Proficiencies",
+                  "entry": "{@item Disguise kit|phb}, one type of {@filter musical instrument|items|source=phb|miscellaneous=mundane|type=instrument}"
+                },
+                {
+                  "type": "item",
+                  "name": "Equipment",
+                  "entry": "An inexpensive but unusual weapon, such as a {@item tri dent|phb} or {@item net|phb} (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), {@item costume clothes|phb}, and a belt {@item pouch|phb} containing 15 den"
+                }
+              ]
+            },
+            {
+              "name": "Feature: By Popular Demand",
+              "type": "entries",
+              "entries": [
+                "You can always find a place to perform in any place that features combat for entertainment—perhaps a gladiatorial arena or secret pit fighting club. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a liking to you."
+              ],
+              "data": {
+                "isFeature": true
+              }
+            },
+            {
+              "name": "Specialty",
+              "type": "entries",
+              "entries": [
+                "A good entertainer is versatile, spicing up every performance with a variety of different routines. Choose one to three routines or roll on the table below to define your expertise as an entertainer.",
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d10",
+                    "Routines"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "Actor"
+                    ],
+                    [
+                      "2",
+                      "Dancer"
+                    ],
+                    [
+                      "3",
+                      "Fire-eater"
+                    ],
+                    [
+                      "4",
+                      "Jester"
+                    ],
+                    [
+                      "5",
+                      "Juggler"
+                    ],
+                    [
+                      "6",
+                      "Instrumentalist"
+                    ],
+                    [
+                      "7",
+                      "Poet"
+                    ],
+                    [
+                      "8",
+                      "Singer"
+                    ],
+                    [
+                      "9",
+                      "Storyteller"
+                    ],
+                    [
+                      "10",
+                      "Tumbler"
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Suggested Characteristics",
+              "type": "entries",
+              "entries": [
+                "Successful entertainers have to be able to capture and hold an audience's attention, so they tend to have flamboyant or forceful personalities. They're inclined toward the romantic and often cling to high-minded ideals about the practice of art and the appreciation of beauty.",
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d8",
+                    "Personality Trait"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "I know a story relevant to almost every situation."
+                    ],
+                    [
+                      "2",
+                      "Whenever I come to a new place, I collect local rumors and spread gossip."
+                    ],
+                    [
+                      "3",
+                      "I'm a hopeless romantic, always searching for that \"special someone\"."
+                    ],
+                    [
+                      "4",
+                      "Nobody stays angry at me or around me for long, since I can defuse any amount of tension."
+                    ],
+                    [
+                      "5",
+                      "I love a good insult, even one directed at me."
+                    ],
+                    [
+                      "6",
+                      "I get bitter if I'm not the center of attention."
+                    ],
+                    [
+                      "7",
+                      "I'll settle for nothing less than perfection."
+                    ],
+                    [
+                      "8",
+                      "I change my mood or my mind as quickly as I change key in a song."
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Ideal"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "Beauty. When I perform, I make the world better than it was. (Good)"
+                    ],
+                    [
+                      "2",
+                      "Tradition. The stories, legends, and songs of the past must never be forgotten, for they teach us who we are. (Lawful)"
+                    ],
+                    [
+                      "3",
+                      "Creativity. The world is in need of new ideas and bold action. (Chaotic)"
+                    ],
+                    [
+                      "4",
+                      "Greed. I'm only in it for the money and fame. (Evil)"
+                    ],
+                    [
+                      "5",
+                      "People. I like seeing the smiles on people's faces when I perform. That's all that matters. (Neutral)"
+                    ],
+                    [
+                      "6",
+                      "Honesty. Art should reflect the soul; it should come from within and reveal who we really are. (Any)"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Bond"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "My instrument is my most treasured possession, and it reminds me of someone I love."
+                    ],
+                    [
+                      "2",
+                      "Someone stole my precious instrument, and someday I'll get it back."
+                    ],
+                    [
+                      "3",
+                      "I want to be famous, whatever it takes."
+                    ],
+                    [
+                      "4",
+                      "I idolize a hero of the old tales and measure my deeds against that person's."
+                    ],
+                    [
+                      "5",
+                      "I will do anything to prove myself superior to my hated rival."
+                    ],
+                    [
+                      "6",
+                      "I would do anything for the other members of my old troupe."
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Flaw"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "I'll do anything to win fame and renown."
+                    ],
+                    [
+                      "2",
+                      "I'm a sucker for a pretty face."
+                    ],
+                    [
+                      "3",
+                      "A scandal prevents me from ever going home again. That kind of trouble seems to follow me around."
+                    ],
+                    [
+                      "4",
+                      "I once satirized a noble who still wants my head. It was a mistake that I will likely repeat."
+                    ],
+                    [
+                      "5",
+                      "I have trouble keeping my true feelings hid den. My sharp tongue lands me in trouble."
+                    ],
+                    [
+                      "6",
+                      "Despite my best efforts, I am unreliable to my friends."
+                    ]
+                  ]
+                }
+              ]
+            }
+          ],
+          "skillProficiencies": [
+            {
+              "acrobatics": true,
+              "performance": true
+            }
+          ],
+          "toolProficiencies": [
+            {
+              "disguise kit": true,
+              "musical instrument": true
+            }
+          ],
+          "startingEquipment": [
+            {
+              "_": [
+                {
+                  "equipmentType": "instrumentMusical"
+                },
+                {
+                  "special": "the favor of an admirer (love letter, lock of hair, or trinket)"
+                },
+                "costume clothes|phb",
+                {
+                  "item": "pouch|phb",
+                  "containsValue": 1500
+                }
+              ]
+            }
+          ],
+          "_isCopy": true,
+          "__prop": "background",
+          "_skillDisplay": "Acrobatics, Performance"
+        }
+      }
+    },
+    "exportSource": {
+      "world": "test-world",
+      "system": "dnd5e",
+      "coreVersion": "0.7.9",
+      "systemVersion": "1.2.4"
+    }
+  },
+  "img": "modules/game-icons-net/blackbackground/crested-helmet.svg",
+  "effects": []
+}

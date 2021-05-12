@@ -1,0 +1,318 @@
+{
+  "_id": "JcNOeQr7svqm1PwK",
+  "name": "Urchin",
+  "type": "feat",
+  "data": {
+    "description": {
+      "value": "<div>\n<div class=\"rd__b  rd__b--1\">\n<p>You grew up on the streets alone, orphaned, and poor. You had no one to watch over you or to provide for you, so you learned to provide for yourself. You fought fiercely over food and kept a constant watch out for other desperate souls who might steal from you. You slept on rooftops and in alleyways, exposed to the elements, and endured sickness without the advantage of medicine or a place to recuperate. You've survived despite all odds, and did so through cunning, strength, speed, or some combination of each.</p>\n<p>You begin your adventuring career with enough money to live modestly but securely for at least ten days. How did you come by that money? What allowed you to break free of your desperate circumstances and embark on a better life?</p>\n<hr />\n<ul class=\"rd__list rd__list-hang-notitle\">\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Skill Proficiencies:</span> Sleight of Hand, Stealth</p>\n</li>\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Tool Proficiencies:</span> Disguise kit, Thieves' tools</p>\n</li>\n<li class=\"rd__li \">\n<p><span class=\"bold list-item-title\">Equipment:</span></p>\n<ul class=\"rd__list rd__list-hang-notitle\">\n<li class=\"rd__li \">\n<p>A small knife</p>\n</li>\n<li class=\"rd__li \">\n<p>A map of the city you grew up in</p>\n</li>\n<li class=\"rd__li \">\n<p>A pet mouse</p>\n</li>\n<li class=\"rd__li \">\n<p>A token to remember your parents by</p>\n</li>\n<li class=\"rd__li \">\n<p>A set of common clothes</p>\n</li>\n<li class=\"rd__li \">\n<p>A belt pouch containing 10 den</p>\n</li>\n</ul>\n</li>\n</ul>\n<div class=\"rd__b  rd__b--2\"><hr /></div>\n<div class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"145\"><span class=\"entry-title-inner\">Feature: City Secrets</span></span>\n<p>You know the secret patterns and flow to cities and can find passages through the urban sprawl that others would miss. When you are not in combat, you (and companions you lead) can travel between any two locations in the city twice as fast as your speed would normally allow.</p>\n</div>\n<div class=\"rd__b  rd__b--2\"><hr /></div>\n<div class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"146\"><span class=\"entry-title-inner\">Suggested Characteristics</span></span>\n<p>Urchins are shaped by lives of desperate poverty, for good and for ill. They tend to be driven either by a commitment to the people with whom they shared life on the street or by a burning desire to find a better life&mdash;and maybe get some payback on all the rich people who treated them badly.</p>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d8]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Personality Trait</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">I hide scraps of food and trinkets away in my pockets.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">I ask a lot of questions.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">I like to squeeze into small places where no one else can get to me.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I sleep with my back to a wall or tree, with everything I own wrapped in a bundle in my arms.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">I eat like a pig and have bad manners.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">I think anyone who's nice to me is hiding evil intent.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"7\" data-roll-max=\"7\">7</td>\n<td class=\"col-11\">I don't like to bathe.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"8\" data-roll-max=\"8\">8</td>\n<td class=\"col-11\">I bluntly say what others are hinting at or hiding.</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Ideal</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">Respect. All people, rich or poor, deserve respect. (Good)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">Community. We have to take care of each other, because no one else is going to do it. (Lawful)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">Change. The low are lifted up, and the high and mighty are brought down. Change is the nature of things. (Chaotic)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">Retribution. The rich need to be shown what life and death are like in the gutters. (Evil)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">People. I help the people who help me&mdash;that's what keeps us alive. (Neutral)</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">Aspiration. I'm going to prove that I'm worthy of a better life. (Any)</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Bond</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">My town or city is my home, and I'll fight to defend it.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">I sponsor an orphanage to keep others from enduring what I was forced to endure.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">I owe my survival to another urchin who taught me to live on the streets.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I owe a debt I can never repay to the person who took pity on me.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">I escaped my life of poverty by robbing an important person, and I'm wanted for it.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">No one else should have to endure the hardships I've been through.</td>\n</tr>\n</tbody>\n</table>\n<table class=\" stripe-odd-table\">\n<thead>\n<tr>\n<th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th>\n<th class=\"col-11\" data-rd-isroller=\"false\">Flaw</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td>\n<td class=\"col-11\">If I'm outnumbered, I will run away from a fight.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td>\n<td class=\"col-11\">Gold seems like a lot of money to me, and I'll do just about anything for more of it.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td>\n<td class=\"col-11\">I will never fully trust anyone other than myself.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td>\n<td class=\"col-11\">I'd rather kill someone in their sleep than fight fair.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td>\n<td class=\"col-11\">It's not stealing if I need it more than someone else.</td>\n</tr>\n<tr>\n<td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td>\n<td class=\"col-11\">People who can't take care of themselves get what they deserve.</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n</div>",
+      "chat": "",
+      "uni dentified": ""
+    },
+    "source": "PHB pg. 141",
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "sort": 1200000,
+  "flags": {
+    "plutonium": {
+      "source": "PHB",
+      "hash": "urchin_phb",
+      "data": {
+        "background": {
+          "name": "Urchin",
+          "source": "PHB",
+          "page": 141,
+          "entries": [
+            {
+              "type": "list",
+              "style": "list-hang-notitle",
+              "items": [
+                {
+                  "type": "item",
+                  "name": "Skill Proficiencies",
+                  "entry": "{@skill Sleight of Hand}, {@skill Stealth}"
+                },
+                {
+                  "type": "item",
+                  "name": "Tool Proficiencies",
+                  "entry": "{@item Disguise kit|phb}, {@item Thieves' tools|phb}"
+                },
+                {
+                  "type": "item",
+                  "name": "Equipment",
+                  "entry": "A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of {@item common clothes|phb}, and a belt {@item pouch|phb} containing 10 den"
+                }
+              ]
+            },
+            {
+              "name": "Feature: City Secrets",
+              "type": "entries",
+              "entries": [
+                "You know the secret patterns and flow to cities and can find passages through the urban sprawl that others would miss. When you are not in combat, you (and companions you lead) can travel between any two locations in the city twice as fast as your speed would normally allow."
+              ],
+              "data": {
+                "isFeature": true
+              }
+            },
+            {
+              "name": "Suggested Characteristics",
+              "type": "entries",
+              "entries": [
+                "Urchins are shaped by lives of desperate poverty, for good and for ill. They tend to be driven either by a commitment to the people with whom they shared life on the street or by a burning desire to find a better life—and maybe get some payback on all the rich people who treated them badly.",
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d8",
+                    "Personality Trait"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "I hide scraps of food and trinkets away in my pockets."
+                    ],
+                    [
+                      "2",
+                      "I ask a lot of questions."
+                    ],
+                    [
+                      "3",
+                      "I like to squeeze into small places where no one else can get to me."
+                    ],
+                    [
+                      "4",
+                      "I sleep with my back to a wall or tree, with everything I own wrapped in a bundle in my arms."
+                    ],
+                    [
+                      "5",
+                      "I eat like a pig and have bad manners."
+                    ],
+                    [
+                      "6",
+                      "I think anyone who's nice to me is hiding evil intent."
+                    ],
+                    [
+                      "7",
+                      "I don't like to bathe."
+                    ],
+                    [
+                      "8",
+                      "I bluntly say what others are hinting at or hiding."
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Ideal"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "Respect. All people, rich or poor, deserve respect. (Good)"
+                    ],
+                    [
+                      "2",
+                      "Community. We have to take care of each other, because no one else is going to do it. (Lawful)"
+                    ],
+                    [
+                      "3",
+                      "Change. The low are lifted up, and the high and mighty are brought down. Change is the nature of things. (Chaotic)"
+                    ],
+                    [
+                      "4",
+                      "Retribution. The rich need to be shown what life and death are like in the gutters. (Evil)"
+                    ],
+                    [
+                      "5",
+                      "People. I help the people who help me—that's what keeps us alive. (Neutral)"
+                    ],
+                    [
+                      "6",
+                      "Aspiration. I'm going to prove that I'm worthy of a better life. (Any)"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Bond"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "My town or city is my home, and I'll fight to defend it."
+                    ],
+                    [
+                      "2",
+                      "I sponsor an orphanage to keep others from enduring what I was forced to endure."
+                    ],
+                    [
+                      "3",
+                      "I owe my survival to another urchin who taught me to live on the streets."
+                    ],
+                    [
+                      "4",
+                      "I owe a debt I can never repay to the person who took pity on me."
+                    ],
+                    [
+                      "5",
+                      "I escaped my life of poverty by robbing an important person, and I'm wanted for it."
+                    ],
+                    [
+                      "6",
+                      "No one else should have to endure the hardships I've been through."
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Flaw"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "If I'm outnumbered, I will run away from a fight."
+                    ],
+                    [
+                      "2",
+                      "Gold seems like a lot of money to me, and I'll do just about anything for more of it."
+                    ],
+                    [
+                      "3",
+                      "I will never fully trust anyone other than myself."
+                    ],
+                    [
+                      "4",
+                      "I'd rather kill someone in their sleep than fight fair."
+                    ],
+                    [
+                      "5",
+                      "It's not stealing if I need it more than someone else."
+                    ],
+                    [
+                      "6",
+                      "People who can't take care of themselves get what they deserve."
+                    ]
+                  ]
+                }
+              ]
+            }
+          ],
+          "skillProficiencies": [
+            {
+              "sleight of hand": true,
+              "stealth": true
+            }
+          ],
+          "toolProficiencies": [
+            {
+              "disguise kit": true,
+              "thieves' tools": true
+            }
+          ],
+          "startingEquipment": [
+            {
+              "_": [
+                {
+                  "special": "small knife"
+                },
+                {
+                  "special": "map of the city you grew up in"
+                },
+                {
+                  "special": "pet mouse"
+                },
+                {
+                  "special": "token to remember your parents by"
+                },
+                "common clothes|phb",
+                {
+                  "item": "pouch|phb",
+                  "containsValue": 1000
+                }
+              ]
+            }
+          ],
+          "__prop": "background",
+          "_skillDisplay": "Sleight of Hand, Stealth"
+        }
+      }
+    },
+    "exportSource": {
+      "world": "test-world",
+      "system": "dnd5e",
+      "coreVersion": "0.7.9",
+      "systemVersion": "1.2.4"
+    }
+  },
+  "img": "modules/game-icons-net/blackbackground/arc-triomphe.svg",
+  "effects": []
+}

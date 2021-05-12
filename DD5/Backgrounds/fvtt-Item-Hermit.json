@@ -1,0 +1,376 @@
+{
+  "_id": "coQ9o8JExuDtEN99",
+  "name": "Hermit",
+  "type": "feat",
+  "data": {
+    "description": {
+      "value": "<div><div  class=\"rd__b  rd__b--1\"><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p><span class=\"bold list-item-title\">Skill Proficiencies</span> <span class=\"help--hover\" onmouseover=\"Renderer.hover.handlePredefinedMouseOver(event, this, 108, {})\" onmousemove=\"Renderer.hover.handlePredefinedMouseMove(event, this)\" onmouseleave=\"Renderer.hover.handlePredefinedMouseLeave(event, this)\" ontouchstart=\"Renderer.hover.handleTouchStart(event, this)\">Medicine</span>, <span class=\"help--hover\" onmouseover=\"Renderer.hover.handlePredefinedMouseOver(event, this, 109, {})\" onmousemove=\"Renderer.hover.handlePredefinedMouseMove(event, this)\" onmouseleave=\"Renderer.hover.handlePredefinedMouseLeave(event, this)\" ontouchstart=\"Renderer.hover.handleTouchStart(event, this)\">Religion</span></p></li><li class=\"rd__li \"><p><span class=\"bold list-item-title\">Tool Proficiencies</span> <span class=\"bold\" onmouseover=\"Renderer.hover.pHandleLinkMouseOver(event, this, 'items.html', 'phb', 'herbalism%20kit_phb', null)\" onmouseleave=\"Renderer.hover.handleLinkMouseLeave(event, this)\" onmousemove=\"Renderer.hover.handleLinkMouseMove(event, this)\"  ontouchstart=\"Renderer.hover.handleTouchStart(event, this)\" >Herbalism kit</span></p></li><li class=\"rd__li \"><p><span class=\"bold list-item-title\">Languages</span> One of your choice</p></li><li class=\"rd__li \"><p><span class=\"bold list-item-title\">Equipment</span> A <span class=\"bold\" onmouseover=\"Renderer.hover.pHandleLinkMouseOver(event, this, 'items.html', 'phb', 'map%20or%20scroll%20case_phb', null)\" onmouseleave=\"Renderer.hover.handleLinkMouseLeave(event, this)\" onmousemove=\"Renderer.hover.handleLinkMouseMove(event, this)\"  ontouchstart=\"Renderer.hover.handleTouchStart(event, this)\" >scroll case</span> stuffed full of notes from your studies or prayers, a winter <span class=\"bold\" onmouseover=\"Renderer.hover.pHandleLinkMouseOver(event, this, 'items.html', 'phb', 'blanket_phb', null)\" onmouseleave=\"Renderer.hover.handleLinkMouseLeave(event, this)\" onmousemove=\"Renderer.hover.handleLinkMouseMove(event, this)\"  ontouchstart=\"Renderer.hover.handleTouchStart(event, this)\" >blanket</span>, a set of <span class=\"bold\" onmouseover=\"Renderer.hover.pHandleLinkMouseOver(event, this, 'items.html', 'phb', 'common%20clothes_phb', null)\" onmouseleave=\"Renderer.hover.handleLinkMouseLeave(event, this)\" onmousemove=\"Renderer.hover.handleLinkMouseMove(event, this)\"  ontouchstart=\"Renderer.hover.handleTouchStart(event, this)\" >common clothes</span>, an <span class=\"bold\" onmouseover=\"Renderer.hover.pHandleLinkMouseOver(event, this, 'items.html', 'phb', 'herbalism%20kit_phb', null)\" onmouseleave=\"Renderer.hover.handleLinkMouseLeave(event, this)\" onmousemove=\"Renderer.hover.handleLinkMouseMove(event, this)\"  ontouchstart=\"Renderer.hover.handleTouchStart(event, this)\" >herbalism kit</span>, and 5 den</p></li></ul><div  class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"123\" > <span class=\"entry-title-inner\">Feature: Discovery</span></span> <p>The quiet seclusion of your extended hermitage gave you access to a unique and powerful discovery. The exact nature of this revelation depends on the nature of your seclusion. It might be a great truth about the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature. It could be a site that no one else has ever seen. You might have uncovered a fact that has long been forgotten, or unearthed some relic of the past that could rewrite history. It might be information that would be damaging to the people who or consigned you to exile, and hence the reason for your return to society.</p><p>Work with your DM to determine the details of your discovery and its impact on the campaign.</p></div><div  class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"124\" > <span class=\"entry-title-inner\">Specialty</span></span> <p>What was the reason for your isolation, and what changed to allow you to end your solitude? You can work with your DM to determine the exact nature of your seclusion, or you can choose or roll on the table below to determine the reason behind your seclusion.</p><table class=\" stripe-odd-table\"><thead><tr><th class=\"col-1 text-center\" data-rd-isroller=\"true\" >[[/r d8]]</th><th class=\"col-11\" data-rd-isroller=\"false\" >Life of Seclusion</th></tr></thead><tbody><tr><td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\" >1</td><td class=\"col-11\"  >I was searching for spiritual enlightenment.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\" >2</td><td class=\"col-11\"  >I was partaking of communal living in accordance with the dictates of a religious order.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\" >3</td><td class=\"col-11\"  >I was exiled for a crime I didn't commit.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\" >4</td><td class=\"col-11\"  >I retreated from society after a life-altering event.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\" >5</td><td class=\"col-11\"  >I needed a quiet place to work on my art, literature, music, or manifesto.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\" >6</td><td class=\"col-11\"  >I needed to commune with nature, far from civilization.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"7\" data-roll-max=\"7\" >7</td><td class=\"col-11\"  >I was the caretaker of an ancient ruin or relic.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"8\" data-roll-max=\"8\" >8</td><td class=\"col-11\"  >I was a pilgrim in search of a person, place, or relic of spiritual significance.</td></tr></tbody></table></div><div  class=\"rd__b  rd__b--2\"><span class=\"rd__h rd__h--2\" data-title-index=\"125\" > <span class=\"entry-title-inner\">Suggested Characteristics</span></span> <p>Some hermits are well suited to a life of seclusion, whereas others chafe against it and long for company. Whether they embrace solitude or long to escape it, the solitary life shapes their attitudes and ideals. A few are driven slightly mad by their years apart from society.</p><table class=\" stripe-odd-table\"><thead><tr><th class=\"col-1 text-center\" data-rd-isroller=\"true\" >[[/r d8]]</th><th class=\"col-11\" data-rd-isroller=\"false\" >Personality Trait</th></tr></thead><tbody><tr><td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\" >1</td><td class=\"col-11\"  >I've been isolated for so long that I rarely speak, preferring gestures and the occasional grunt.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\" >2</td><td class=\"col-11\"  >I am utterly serene, even in the face of disaster.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\" >3</td><td class=\"col-11\"  >The leader of my community had something wise to say on every topic, and I am eager to share that wisdom.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\" >4</td><td class=\"col-11\"  >I feel tremendous empathy for all who suffer.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\" >5</td><td class=\"col-11\"  >I'm oblivious to etiquette and social expectations.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\" >6</td><td class=\"col-11\"  >I connect everything that happens to me to a grand, cosmic plan.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"7\" data-roll-max=\"7\" >7</td><td class=\"col-11\"  >I often get lost in my own thoughts and contemplation, becoming oblivious to my surroundings.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"8\" data-roll-max=\"8\" >8</td><td class=\"col-11\"  >I am working on a grand philosophical theory and love sharing my ideas.</td></tr></tbody></table><table class=\" stripe-odd-table\"><thead><tr><th class=\"col-1 text-center\" data-rd-isroller=\"true\" >[[/r d6]]</th><th class=\"col-11\" data-rd-isroller=\"false\" >Ideal</th></tr></thead><tbody><tr><td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\" >1</td><td class=\"col-11\"  >Greater Good. My gifts are meant to be shared with all, not used for my own benefit. (Good)</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\" >2</td><td class=\"col-11\"  >Logic. Emotions must not cloud our sense of what is right and true, or our logical thinking. (Lawful)</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\" >3</td><td class=\"col-11\"  >Free Thinking. Inquiry and curiosity are the pillars of progress. (Chaotic)</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\" >4</td><td class=\"col-11\"  >Power. Solitude and contemplation are paths toward mystical or magical power. (Evil)</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\" >5</td><td class=\"col-11\"  >Live and Let Live. Meddling in the affairs of others only causes trouble. (Neutral)</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\" >6</td><td class=\"col-11\"  >Self-Knowledge. If you know yourself, there's nothing left to know. (Any)</td></tr></tbody></table><table class=\" stripe-odd-table\"><thead><tr><th class=\"col-1 text-center\" data-rd-isroller=\"true\" >[[/r d6]]</th><th class=\"col-11\" data-rd-isroller=\"false\" >Bond</th></tr></thead><tbody><tr><td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\" >1</td><td class=\"col-11\"  >Nothing is more important than the other members of my hermitage, order, or association.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\" >2</td><td class=\"col-11\"  >I entered seclusion to hide from the ones who might still be hunting me. I must someday confront them.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\" >3</td><td class=\"col-11\"  >I'm still seeking the enlightenment I pursued in my seclusion, and it still eludes me.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\" >4</td><td class=\"col-11\"  >I entered seclusion because I loved someone I could not have.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\" >5</td><td class=\"col-11\"  >Should my discovery come to light, it could bring ruin to the world.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\" >6</td><td class=\"col-11\"  >My isolation gave me great insight into a great evil that only I can destroy.</td></tr></tbody></table><table class=\" stripe-odd-table\"><thead><tr><th class=\"col-1 text-center\" data-rd-isroller=\"true\" >[[/r d6]]</th><th class=\"col-11\" data-rd-isroller=\"false\" >Flaw</th></tr></thead><tbody><tr><td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\" >1</td><td class=\"col-11\"  >Now that I've returned to the world, I enjoy its delights a little too much.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\" >2</td><td class=\"col-11\"  >I harbor dark, bloodthirsty thoughts that my isolation and meditation failed to quell.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\" >3</td><td class=\"col-11\"  >I am dogmatic in my thoughts and philosophy.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\" >4</td><td class=\"col-11\"  >I let my need to win arguments overshadow friendships and harmony.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\" >5</td><td class=\"col-11\"  >I'd risk too much to uncover a lost bit of knowledge.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\" >6</td><td class=\"col-11\"  >I like keeping secrets and won't share them with anyone.</td></tr></tbody></table></div></div></div>",
+      "chat": "",
+      "uni dentified": ""
+    },
+    "source": "PHB pg. 134",
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": null,
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "sort": 1500000,
+  "flags": {
+    "plutonium": {
+      "source": "PHB",
+      "hash": "hermit_phb",
+      "data": {
+        "background": {
+          "name": "Hermit",
+          "source": "PHB",
+          "page": 134,
+          "entries": [
+            {
+              "type": "list",
+              "style": "list-hang-notitle",
+              "items": [
+                {
+                  "type": "item",
+                  "name": "Skill Proficiencies",
+                  "entry": "{@skill Medicine}, {@skill Religion}"
+                },
+                {
+                  "type": "item",
+                  "name": "Tool Proficiencies",
+                  "entry": "{@item Herbalism kit|phb}"
+                },
+                {
+                  "type": "item",
+                  "name": "Languages",
+                  "entry": "One of your choice"
+                },
+                {
+                  "type": "item",
+                  "name": "Equipment",
+                  "entry": "A {@item Map or Scroll Case|phb|scroll case} stuffed full of notes from your studies or prayers, a winter {@item blanket|phb}, a set of {@item common clothes|phb}, an {@item herbalism kit|phb}, and 5 den"
+                }
+              ]
+            },
+            {
+              "name": "Feature: Discovery",
+              "type": "entries",
+              "entries": [
+                "The quiet seclusion of your extended hermitage gave you access to a unique and powerful discovery. The exact nature of this revelation depends on the nature of your seclusion. It might be a great truth about the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature. It could be a site that no one else has ever seen. You might have uncovered a fact that has long been forgotten, or unearthed some relic of the past that could rewrite history. It might be information that would be damaging to the people who or consigned you to exile, and hence the reason for your return to society.",
+                "Work with your DM to determine the details of your discovery and its impact on the campaign."
+              ],
+              "data": {
+                "isFeature": true
+              }
+            },
+            {
+              "name": "Specialty",
+              "type": "entries",
+              "entries": [
+                "What was the reason for your isolation, and what changed to allow you to end your solitude? You can work with your DM to determine the exact nature of your seclusion, or you can choose or roll on the table below to determine the reason behind your seclusion.",
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d8",
+                    "Life of Seclusion"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "I was searching for spiritual enlightenment."
+                    ],
+                    [
+                      "2",
+                      "I was partaking of communal living in accordance with the dictates of a religious order."
+                    ],
+                    [
+                      "3",
+                      "I was exiled for a crime I didn't commit."
+                    ],
+                    [
+                      "4",
+                      "I retreated from society after a life-altering event."
+                    ],
+                    [
+                      "5",
+                      "I needed a quiet place to work on my art, literature, music, or manifesto."
+                    ],
+                    [
+                      "6",
+                      "I needed to commune with nature, far from civilization."
+                    ],
+                    [
+                      "7",
+                      "I was the caretaker of an ancient ruin or relic."
+                    ],
+                    [
+                      "8",
+                      "I was a pilgrim in search of a person, place, or relic of spiritual significance."
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Suggested Characteristics",
+              "type": "entries",
+              "entries": [
+                "Some hermits are well suited to a life of seclusion, whereas others chafe against it and long for company. Whether they embrace solitude or long to escape it, the solitary life shapes their attitudes and ideals. A few are driven slightly mad by their years apart from society.",
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d8",
+                    "Personality Trait"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "I've been isolated for so long that I rarely speak, preferring gestures and the occasional grunt."
+                    ],
+                    [
+                      "2",
+                      "I am utterly serene, even in the face of disaster."
+                    ],
+                    [
+                      "3",
+                      "The leader of my community had something wise to say on every topic, and I am eager to share that wisdom."
+                    ],
+                    [
+                      "4",
+                      "I feel tremendous empathy for all who suffer."
+                    ],
+                    [
+                      "5",
+                      "I'm oblivious to etiquette and social expectations."
+                    ],
+                    [
+                      "6",
+                      "I connect everything that happens to me to a grand, cosmic plan."
+                    ],
+                    [
+                      "7",
+                      "I often get lost in my own thoughts and contemplation, becoming oblivious to my surroundings."
+                    ],
+                    [
+                      "8",
+                      "I am working on a grand philosophical theory and love sharing my ideas."
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Ideal"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "Greater Good. My gifts are meant to be shared with all, not used for my own benefit. (Good)"
+                    ],
+                    [
+                      "2",
+                      "Logic. Emotions must not cloud our sense of what is right and true, or our logical thinking. (Lawful)"
+                    ],
+                    [
+                      "3",
+                      "Free Thinking. Inquiry and curiosity are the pillars of progress. (Chaotic)"
+                    ],
+                    [
+                      "4",
+                      "Power. Solitude and contemplation are paths toward mystical or magical power. (Evil)"
+                    ],
+                    [
+                      "5",
+                      "Live and Let Live. Meddling in the affairs of others only causes trouble. (Neutral)"
+                    ],
+                    [
+                      "6",
+                      "Self-Knowledge. If you know yourself, there's nothing left to know. (Any)"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Bond"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "Nothing is more important than the other members of my hermitage, order, or association."
+                    ],
+                    [
+                      "2",
+                      "I entered seclusion to hide from the ones who might still be hunting me. I must someday confront them."
+                    ],
+                    [
+                      "3",
+                      "I'm still seeking the enlightenment I pursued in my seclusion, and it still eludes me."
+                    ],
+                    [
+                      "4",
+                      "I entered seclusion because I loved someone I could not have."
+                    ],
+                    [
+                      "5",
+                      "Should my discovery come to light, it could bring ruin to the world."
+                    ],
+                    [
+                      "6",
+                      "My isolation gave me great insight into a great evil that only I can destroy."
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "colLabels": [
+                    "d6",
+                    "Flaw"
+                  ],
+                  "colStyles": [
+                    "col-1 text-center",
+                    "col-11"
+                  ],
+                  "rows": [
+                    [
+                      "1",
+                      "Now that I've returned to the world, I enjoy its delights a little too much."
+                    ],
+                    [
+                      "2",
+                      "I harbor dark, bloodthirsty thoughts that my isolation and meditation failed to quell."
+                    ],
+                    [
+                      "3",
+                      "I am dogmatic in my thoughts and philosophy."
+                    ],
+                    [
+                      "4",
+                      "I let my need to win arguments overshadow friendships and harmony."
+                    ],
+                    [
+                      "5",
+                      "I'd risk too much to uncover a lost bit of knowledge."
+                    ],
+                    [
+                      "6",
+                      "I like keeping secrets and won't share them with anyone."
+                    ]
+                  ]
+                }
+              ]
+            }
+          ],
+          "skillProficiencies": [
+            {
+              "medicine": true,
+              "religion": true
+            }
+          ],
+          "languageProficiencies": [
+            {
+              "anyStandard": 1
+            }
+          ],
+          "toolProficiencies": [
+            {
+              "herbalism kit": true
+            }
+          ],
+          "startingEquipment": [
+            {
+              "_": [
+                {
+                  "item": "map or scroll case|phb",
+                  "displayName": "scroll case stuffed full of notes from your studies or prayers"
+                },
+                {
+                  "item": "blanket|phb",
+                  "displayName": "winter blanket"
+                },
+                "common clothes|phb",
+                "herbalism kit|phb",
+                {
+                  "value": 500
+                }
+              ]
+            }
+          ],
+          "__prop": "background",
+          "_skillDisplay": "Medicine, Religion"
+        }
+      }
+    },
+    "exportSource": {
+      "world": "test-world",
+      "system": "dnd5e",
+      "coreVersion": "0.7.9",
+      "systemVersion": "1.2.4"
+    }
+  },
+  "img": "modules/plutonium/media/icon/farmer.svg",
+  "effects": []
+}
