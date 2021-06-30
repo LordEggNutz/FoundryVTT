@@ -3313,3 +3313,157 @@
             "gmnotes": "<p><br></p>"
         }
     ],
+    "macros": [
+        {
+            "name": "CarryTokensMenu",
+            "action": "!CARRY_TOKENS_MENU",
+            "visibleto": "",
+            "istokenaction": false,
+            "_id": "-LnZptKlkUeR_hIeQP92",
+            "_type": "macro",
+            "id": "-LnZptKlkUeR_hIeQP92",
+            "player_id": "-LnZod7rH3OGaT5_6ghE"
+        },
+        {
+            "name": "Critical-Hit-Table",
+            "action": "&{template:default} {{name=Critical Hit!}} {{[[ ?{Attack Type|Spell, 1t[Critical-Hit-Spell]|Slashing Weapon, 1t[Critical-Hit-Slashing]|Bludgeoning Weapon, 1t[Critical-Hit-Bludgeoning]|Piercing (Melee) Weapon, 1t[Critical-Fail-Piercing-(Melee)]|Unarmed Strike, 1t[Critical-Fail-Unarmed Strike]|Ranged Weapon, 1t[Critical-Hit-Ranged]} ]]}}",
+            "visibleto": "",
+            "istokenaction": false,
+            "id": "-LqJIW4mUmzdHAImAAeq",
+            "player_id": "-LnZod7rH3OGaT5_6ghE"
+        },
+        {
+            "name": "downtime-test",
+            "action": "&{template:default} {{name=Downtime Test}} {{[[1t[downtime-test]]]]}}",
+            "visibleto": "",
+            "istokenaction": false,
+            "id": "-LqPsrX5bsP1TSgROmLy",
+            "player_id": "-LnZod7rH3OGaT5_6ghE"
+        },
+        {
+            "name": "Weather-Generator",
+            "action": "/w gm [[ 1t[Weather-Generator] ]]",
+            "visibleto": "",
+            "istokenaction": false,
+            "id": "-LqUEbykZWtHoLrZgMQT",
+            "player_id": "-LnZod7rH3OGaT5_6ghE"
+        },
+        {
+            "name": "Random-Character",
+            "action": "[[ 1t[Random-Character-M] ]]",
+            "visibleto": "",
+            "istokenaction": false,
+            "id": "-LqUguEZmfkpPxdKpPFv",
+            "player_id": "-LnZod7rH3OGaT5_6ghE"
+        },
+        {
+            "name": "Long-Rest-Events",
+            "action": "[[ 1t[Long-Rest-Events] ]]",
+            "visibleto": "",
+            "istokenaction": false,
+            "id": "-LqUjEShbiaMpAw3bD1O",
+            "player_id": "-LnZod7rH3OGaT5_6ghE"
+        },
+        {
+            "name": "madness",
+            "action": "&{template:default} {{name=@{selected|token_name} is driven mad!}} {{[[1t[madness]]]}}\nFor this many HOURS! .... yes ... HOURS!!!\n/roll 1d10 * 10 ",
+            "visibleto": "",
+            "istokenaction": false,
+            "id": "-LqUjN3iglZzDNCEzVx9",
+            "player_id": "-LnZod7rH3OGaT5_6ghE"
+        },
+        {
+            "name": "Random-Books",
+            "action": "/w gm &{template:default} {{name=Random Books}} {{Books= [[ 1t[Random-Books] ]] }}",
+            "visibleto": "",
+            "istokenaction": false,
+            "id": "-LqUtSh6P6CjpyeKbA5d",
+            "player_id": "-LnZod7rH3OGaT5_6ghE"
+        },
+        {
+            "name": "ItsATrap_trapCreationWizard",
+            "action": "!ItsATrap_trapCreationWizard_showMenu",
+            "visibleto": "",
+            "istokenaction": true,
+            "_id": "-Lqys-_jXVS-Qu7S6Y76",
+            "_type": "macro",
+            "id": "-Lqys-_jXVS-Qu7S6Y76",
+            "player_id": "-LnZod7rH3OGaT5_6ghE"
+        },
+        {
+            "name": "AreasOfEffectMenu",
+            "action": "!areasOfEffectShowMenu",
+            "visibleto": "all",
+            "istokenaction": false,
+            "_id": "-Lzy6UrpJ3RU5XYv2IsZ",
+            "_type": "macro",
+            "id": "-Lzy6UrpJ3RU5XYv2IsZ",
+            "player_id": "-LnZod7rH3OGaT5_6ghE"
+        },
+        {
+            "name": "AoeShortcut_Path",
+            "action": "!areasOfEffectApplyEffectAtPath ?{Which effect?|acid_splat|arcane_sphere|azure_circle|blue_circle|cage|circle_of_mud|circle_of_song|crushing_hand|crystal_growth|dancing_light_globe|dark_fire_globe|dark_fire_sphere|darkness|death_cloud|disjunction_sphere|dispel_sphere|earth_spike|earthquake|entomb|fire_wall|flaming_globe|fog_cloud|force_wall|globe_of_blue_fire|gnawing_maw|golden_cloud|grasping_dead|grease|green_ball|green_circle|hand_of_death|healing_circle|hovering_disk|ice_storm|lightning_orb|lightning_ring|mud_ball|musical_ring|pinching_hand|planar_breach|poison_cloud|prismatic_cloud|prismatic_wall|purple_burst|purple_sparkles|red_sparkles|red_summoning_circle|ring_of_daggers|ring_of_fire|ring_of_lightning|ring_of_madness|ring_of_rocks|ring_of_trees|seismic_smash|shielding_hand|sonic_burst|spectral_axe|spectral_hammer|stone_spikes|swarm|tangled|tentacle_growth|thunder_globe|wall_of_darkness|wall_of_fog|wall_of_ice|wall_of_trees|watchmans_eye|watchmans_mouth|water_ball|web|whirlpool|white_circles|yellow_circle|yellow_sparkles}",
+            "visibleto": "all",
+            "istokenaction": false,
+            "_id": "-Lzy6UruocEqLEO13Pas",
+            "_type": "macro",
+            "id": "-Lzy6UruocEqLEO13Pas",
+            "player_id": "-LnZod7rH3OGaT5_6ghE"
+        },
+        {
+            "name": "AoeShortcut_Tokens",
+            "action": "!areasOfEffectApplyEffectBetweenTokens @{selected|token_id} @{target|token_id} ?{Which effect?|acid_splat|arcane_sphere|azure_circle|blue_circle|cage|circle_of_mud|circle_of_song|crushing_hand|crystal_growth|dancing_light_globe|dark_fire_globe|dark_fire_sphere|darkness|death_cloud|disjunction_sphere|dispel_sphere|earth_spike|earthquake|entomb|fire_wall|flaming_globe|fog_cloud|force_wall|globe_of_blue_fire|gnawing_maw|golden_cloud|grasping_dead|grease|green_ball|green_circle|hand_of_death|healing_circle|hovering_disk|ice_storm|lightning_orb|lightning_ring|mud_ball|musical_ring|pinching_hand|planar_breach|poison_cloud|prismatic_cloud|prismatic_wall|purple_burst|purple_sparkles|red_sparkles|red_summoning_circle|ring_of_daggers|ring_of_fire|ring_of_lightning|ring_of_madness|ring_of_rocks|ring_of_trees|seismic_smash|shielding_hand|sonic_burst|spectral_axe|spectral_hammer|stone_spikes|swarm|tangled|tentacle_growth|thunder_globe|wall_of_darkness|wall_of_fog|wall_of_ice|wall_of_trees|watchmans_eye|watchmans_mouth|water_ball|web|whirlpool|white_circles|yellow_circle|yellow_sparkles}",
+            "visibleto": "all",
+            "istokenaction": false,
+            "_id": "-Lzy6UrwjCpbHHgEIL8k",
+            "_type": "macro",
+            "id": "-Lzy6UrwjCpbHHgEIL8k",
+            "player_id": "-LnZod7rH3OGaT5_6ghE"
+        },
+        {
+            "name": "AoeShortcut_Burst",
+            "action": "!areasOfEffectApplyEffectAtToken @{target|token_id} ?{Specify radius:} ?{Which effect?|acid_splat|arcane_sphere|azure_circle|blue_circle|cage|circle_of_mud|circle_of_song|crushing_hand|crystal_growth|dancing_light_globe|dark_fire_globe|dark_fire_sphere|darkness|death_cloud|disjunction_sphere|dispel_sphere|earth_spike|earthquake|entomb|fire_wall|flaming_globe|fog_cloud|force_wall|globe_of_blue_fire|gnawing_maw|golden_cloud|grasping_dead|grease|green_ball|green_circle|hand_of_death|healing_circle|hovering_disk|ice_storm|lightning_orb|lightning_ring|mud_ball|musical_ring|pinching_hand|planar_breach|poison_cloud|prismatic_cloud|prismatic_wall|purple_burst|purple_sparkles|red_sparkles|red_summoning_circle|ring_of_daggers|ring_of_fire|ring_of_lightning|ring_of_madness|ring_of_rocks|ring_of_trees|seismic_smash|shielding_hand|sonic_burst|spectral_axe|spectral_hammer|stone_spikes|swarm|tangled|tentacle_growth|thunder_globe|wall_of_darkness|wall_of_fog|wall_of_ice|wall_of_trees|watchmans_eye|watchmans_mouth|water_ball|web|whirlpool|white_circles|yellow_circle|yellow_sparkles}",
+            "visibleto": "all",
+            "istokenaction": false,
+            "_id": "-Lzy6Ury9lBRPiIFVJDW",
+            "_type": "macro",
+            "id": "-Lzy6Ury9lBRPiIFVJDW",
+            "player_id": "-LnZod7rH3OGaT5_6ghE"
+        },
+        {
+            "name": "AoeShortcut_Cone",
+            "action": "!areasOfEffectApplyEffectAtCone @{selected|token_id} ?{Specify radius:} ?{Which effect?|acid_splat|arcane_sphere|azure_circle|blue_circle|cage|circle_of_mud|circle_of_song|crushing_hand|crystal_growth|dancing_light_globe|dark_fire_globe|dark_fire_sphere|darkness|death_cloud|disjunction_sphere|dispel_sphere|earth_spike|earthquake|entomb|fire_wall|flaming_globe|fog_cloud|force_wall|globe_of_blue_fire|gnawing_maw|golden_cloud|grasping_dead|grease|green_ball|green_circle|hand_of_death|healing_circle|hovering_disk|ice_storm|lightning_orb|lightning_ring|mud_ball|musical_ring|pinching_hand|planar_breach|poison_cloud|prismatic_cloud|prismatic_wall|purple_burst|purple_sparkles|red_sparkles|red_summoning_circle|ring_of_daggers|ring_of_fire|ring_of_lightning|ring_of_madness|ring_of_rocks|ring_of_trees|seismic_smash|shielding_hand|sonic_burst|spectral_axe|spectral_hammer|stone_spikes|swarm|tangled|tentacle_growth|thunder_globe|wall_of_darkness|wall_of_fog|wall_of_ice|wall_of_trees|watchmans_eye|watchmans_mouth|water_ball|web|whirlpool|white_circles|yellow_circle|yellow_sparkles}",
+            "visibleto": "all",
+            "istokenaction": false,
+            "_id": "-Lzy6Urzmz6IHE1cJ4hy",
+            "_type": "macro",
+            "id": "-Lzy6Urzmz6IHE1cJ4hy",
+            "player_id": "-LnZod7rH3OGaT5_6ghE"
+        },
+        {
+            "name": "AoeShortcut_Blast",
+            "action": "!areasOfEffectApplyEffectAtBlast @{selected|token_id} ?{Specify radius:} ?{Which effect?|acid_splat|arcane_sphere|azure_circle|blue_circle|cage|circle_of_mud|circle_of_song|crushing_hand|crystal_growth|dancing_light_globe|dark_fire_globe|dark_fire_sphere|darkness|death_cloud|disjunction_sphere|dispel_sphere|earth_spike|earthquake|entomb|fire_wall|flaming_globe|fog_cloud|force_wall|globe_of_blue_fire|gnawing_maw|golden_cloud|grasping_dead|grease|green_ball|green_circle|hand_of_death|healing_circle|hovering_disk|ice_storm|lightning_orb|lightning_ring|mud_ball|musical_ring|pinching_hand|planar_breach|poison_cloud|prismatic_cloud|prismatic_wall|purple_burst|purple_sparkles|red_sparkles|red_summoning_circle|ring_of_daggers|ring_of_fire|ring_of_lightning|ring_of_madness|ring_of_rocks|ring_of_trees|seismic_smash|shielding_hand|sonic_burst|spectral_axe|spectral_hammer|stone_spikes|swarm|tangled|tentacle_growth|thunder_globe|wall_of_darkness|wall_of_fog|wall_of_ice|wall_of_trees|watchmans_eye|watchmans_mouth|water_ball|web|whirlpool|white_circles|yellow_circle|yellow_sparkles}",
+            "visibleto": "all",
+            "istokenaction": false,
+            "_id": "-Lzy6Us-QYgThdx0prD1",
+            "_type": "macro",
+            "id": "-Lzy6Us-QYgThdx0prD1",
+            "player_id": "-LnZod7rH3OGaT5_6ghE"
+        },
+        {
+            "name": "New-Effect",
+            "action": "!areasOfEffectAddEffect ?{Save Area of Effect: name}",
+            "visibleto": "-LnZod7rH3OGaT5_6ghE",
+            "istokenaction": false,
+            "id": "-M-cgAHW2zirxn33PUkK",
+            "player_id": "-LnZod7rH3OGaT5_6ghE"
+        },
+        {
+            "name": "Tarot",
+            "action": "[[1t[tarot-card]]]",
+            "visibleto": "",
+            "istokenaction": false,
+            "id": "-MKcwIaFKl6SWLuQVWa6",
+            "player_id": "-LnZod7rH3OGaT5_6ghE"
+        }
+    ],
