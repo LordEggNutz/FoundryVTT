@@ -1,1 +1,21 @@
-fdsa
+{
+   "name": "ruinedlighthouse",
+   "title": "Ruined Lighthouse",
+   "description": "A small module with the ruins of a lighthouse tower.",
+   "author": "LEN Design Concepts",
+   "version": "0.0.1",
+   "minimumCoreVersion": "0.8.8",
+   "compatibleCoreVersion": "0.8.8",
+   "url": "https://github.com/LordEggNutz/FoundryVTT/tree/main/modules/lighthouse.ruins",
+   "manifest": "https://github.com/LordEggNutz/FoundryVTT/blob/main/modules/lighthouse.ruins/module.json",
+   "download": "https://github.com/LordEggNutz/FoundryVTT/blob/main/modules/lighthouse.ruins/lighthouse-ruins.zip",
+   "packs": [
+    {
+      "name": "scenes",
+      "label": "Ruined Lighthouse Scenes",
+      "path": "packs/lighthouse-ruin-1-scenes.db",
+      "entity": "Scenes",
+      "module": "ruinedlighthouse"
+    }
+  ]
+ }
