@@ -1,15 +1,12 @@
-cleric domain template
-<p>XXXXXXXXXXXX</p>
-<hr />
 <table>
-    <caption><b>XXXXXXXXXXXX</b></caption>
-    <thead>
+    <tbody>
+        <tr>
+            <th colspan="2">xxxxxxxxxx Features</th>
+        </tr>
         <tr>
             <td style="text-align: center;">Cleric Level</td>
             <td>Feature</td>
         </tr>
-    </thead>
-    <tbody>
         <tr>
             <td style="text-align: center;">1st</td>
             <td>Domain Spells, XXXXXXXXXXXX</td>
@@ -32,62 +29,3 @@ cleric domain template
         </tr>
     </tbody>
 </table>
-<hr />
-<h3>Domain Spells</h3>
-<table>
-    <caption><b>XXXXXXXXXXXXDomain Spells</b></caption>
-    <thead>
-        <tr>
-            <td style="text-align: center;">Cleric Level</td>
-            <td>Spells</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="text-align: center;">1st</td>
-            <td>XXXXXXXXXXXXXXXXXXXXXXXX</td>
-        </tr>
-        <tr>
-            <td style="text-align: center;">3rd</td>
-            <td>XXXXXXXXXXXXXXXXXXXXXXXX</td>
-        </tr>
-        <tr>
-            <td style="text-align: center;">5th</td>
-            <td>XXXXXXXXXXXXXXXXXXXXXXXX</td>
-        </tr>
-        <tr>
-            <td style="text-align: center;">7th</td>
-            <td>XXXXXXXXXXXXXXXXXXXXXXXX</td>
-        </tr>
-        <tr>
-            <td style="text-align: center;">9th</td>
-            <td>XXXXXXXXXXXXXXXXXXXXXXXX</td>
-        </tr>
-    </tbody>
-</table>
-<h3>XXXXXXXXXXXX</h3>
-<p>XXXXXXXXXXXX</p>
-<h3>XXXXXXXXXXXX</h3>
-<p>XXXXXXXXXXXX</p>
-<h3>XXXXXXXXXXXX</h3>
-<p>XXXXXXXXXXXX</p>
-<h3>XXXXXXXXXXXX</h3>
-<p>XXXXXXXXXXXX</p>
-<h3>XXXXXXXXXXXX</h3>
-<p>XXXXXXXXXXXX</p>
-<h3>XXXXXXXXXXXX</h3>
-<p>XXXXXXXXXXXX</p>
-
-
-
-
-<h3>Divine Strike</h3>
-<p>At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 cold, fire, or lightning damage (your choice) to the target. When you reach 14th level, the extra damage increases to 2d8.</p>
-
-
-<h3>Potent Spellcasting</h3>
-<p>Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.</p>
-
-
-<h3>Bonus Proficiency</h3>
-<p>When you choose this domain at 1st level, you gain proficiency with heavy armor.</p>
