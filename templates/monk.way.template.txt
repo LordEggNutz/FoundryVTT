@@ -1,0 +1,27 @@
+<table>
+    <tbody>
+        <tr>
+            <th colspan="2">xxxxxxxxxx Features</th>
+        </tr>
+        <tr>
+            <th style="text-align: center;">Monk Level</th>
+            <th style="text-align: left;">Features</th>
+        </tr>
+        <tr>
+            <td style="text-align: center;">3rd</td>
+            <td>xxxxxxxxxx, xxxxxxxxxx</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">6th</td>
+            <td>xxxxxxxxxx</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">11th</td>
+            <td>xxxxxxxxxx</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">17th</td>
+            <td>xxxxxxxxxx</td>
+        </tr>
+    </tbody>
+</table>
